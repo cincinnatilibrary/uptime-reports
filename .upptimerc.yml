@@ -13,6 +13,8 @@ sites:
     url: https://cincinnatilibrary.org/
   - name: CHPL Discovery Layer / BiblioCore
     url: https://cincinnatilibrary.bibliocommons.com
+  - name: CHPL libcal
+    url: https://cincinnatilibrary.libcal.com/
     
 status-website:
   baseUrl: /uptime-reports # where "repo" is your repository name
