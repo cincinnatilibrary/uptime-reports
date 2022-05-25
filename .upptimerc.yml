@@ -6,7 +6,7 @@ sites:
   - name: CHPL Classic WebPAC (Public Access Catalog)  
     url: https://classic.cincinnatilibrary.org/
   - name: CHPL Sierra REST API
-    url: https://catalog.cincinnatilibrary.org/iii/sierra-api/about
+    url: https://classic.cincinnatilibrary.org/iii/sierra-api/about
   - name: CHPL Encore Discovery Layer
     url: https://catalog.cincinnatilibrary.org
   - name: CHPL Remote Databases / EZProxy
