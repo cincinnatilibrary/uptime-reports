@@ -76,9 +76,9 @@
     "url": "https://cincinnatilibrary.org/",
     "icon": "https://favicons.githubusercontent.com/cincinnatilibrary.org",
     "slug": "chpl-main-web-site-biblio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,24 +87,26 @@
     "timeWeek": 485,
     "timeMonth": 485,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-29": 0
+    }
   },
   {
     "name": "CHPL Discovery Layer / BiblioCore",
     "url": "https://cincinnatilibrary.bibliocommons.com",
     "icon": "https://favicons.githubusercontent.com/cincinnatilibrary.bibliocommons.com",
     "slug": "chpl-discovery-layer-biblio-core",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "98.48%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
-    "time": 1479,
-    "timeDay": 1820,
-    "timeWeek": 1479,
-    "timeMonth": 1479,
-    "timeYear": 1479,
+    "time": 1388,
+    "timeDay": 1396,
+    "timeWeek": 1388,
+    "timeMonth": 1388,
+    "timeYear": 1388,
     "dailyMinutesDown": {
       "2022-05-29": 22
     }
