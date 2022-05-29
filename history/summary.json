@@ -94,19 +94,19 @@
     "url": "https://cincinnatilibrary.bibliocommons.com",
     "icon": "https://favicons.githubusercontent.com/cincinnatilibrary.bibliocommons.com",
     "slug": "chpl-discovery-layer-biblio-core",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1443,
-    "timeDay": 1757,
-    "timeWeek": 1443,
-    "timeMonth": 1443,
-    "timeYear": 1443,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 1479,
+    "timeDay": 1820,
+    "timeWeek": 1479,
+    "timeMonth": 1479,
+    "timeYear": 1479,
     "dailyMinutesDown": {
-      "2022-05-29": 0
+      "2022-05-29": 22
     }
   },
   {
