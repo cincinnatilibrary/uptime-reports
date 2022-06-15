@@ -40,19 +40,19 @@
     "url": "https://catalog.cincinnatilibrary.org",
     "icon": "https://favicons.githubusercontent.com/catalog.cincinnatilibrary.org",
     "slug": "chpl-encore-discovery-layer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 489,
-    "timeWeek": 663,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 647,
+    "timeDay": 477,
+    "timeWeek": 640,
+    "timeMonth": 647,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 24
     }
   },
   {
