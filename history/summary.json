@@ -40,18 +40,20 @@
     "url": "https://catalog.cincinnatilibrary.org",
     "icon": "https://favicons.githubusercontent.com/catalog.cincinnatilibrary.org",
     "slug": "chpl-encore-discovery-layer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 679,
-    "timeWeek": 715,
-    "timeMonth": 671,
-    "timeYear": 671,
-    "dailyMinutesDown": {}
+    "time": 655,
+    "timeDay": 489,
+    "timeWeek": 663,
+    "timeMonth": 655,
+    "timeYear": 655,
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "CHPL Remote Databases / EZProxy",
