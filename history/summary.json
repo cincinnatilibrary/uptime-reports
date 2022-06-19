@@ -79,19 +79,19 @@
     "url": "https://cincinnatilibrary.org/",
     "icon": "https://favicons.githubusercontent.com/cincinnatilibrary.org",
     "slug": "chpl-main-web-site-biblio-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 1378,
-    "timeWeek": 990,
-    "timeMonth": 601,
-    "timeYear": 601,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 596,
+    "timeDay": 913,
+    "timeWeek": 922,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2022-06-19": 0
+      "2022-06-19": 79
     }
   },
   {
