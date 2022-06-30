@@ -4,10 +4,10 @@
     "url": "https://classic.cincinnatilibrary.org/",
     "icon": "https://favicons.githubusercontent.com/classic.cincinnatilibrary.org",
     "slug": "chpl-classic-web-pac-public-access-catalog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
@@ -15,16 +15,18 @@
     "timeWeek": 426,
     "timeMonth": 446,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 1
+    }
   },
   {
     "name": "CHPL Sierra REST API",
     "url": "https://classic.cincinnatilibrary.org/iii/sierra-api/about",
     "icon": "https://favicons.githubusercontent.com/classic.cincinnatilibrary.org",
     "slug": "chpl-sierra-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 62,
     "timeMonth": 60,
     "timeYear": 65,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   },
   {
     "name": "CHPL Encore Discovery Layer",
