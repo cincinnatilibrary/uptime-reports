@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/classic.cincinnatilibrary.org",
     "slug": "chpl-classic-web-pac-public-access-catalog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 431,
-    "timeDay": 454,
-    "timeWeek": 419,
-    "timeMonth": 444,
-    "timeYear": 431,
-    "dailyMinutesDown": {
-      "2022-06-30": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 436,
+    "timeDay": 507,
+    "timeWeek": 461,
+    "timeMonth": 437,
+    "timeYear": 436,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CHPL Sierra REST API",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/classic.cincinnatilibrary.org",
     "slug": "chpl-sierra-rest-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 65,
-    "timeDay": 60,
-    "timeWeek": 63,
+    "timeDay": 72,
+    "timeWeek": 67,
     "timeMonth": 60,
     "timeYear": 65,
-    "dailyMinutesDown": {
-      "2022-06-30": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CHPL Encore Discovery Layer",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 673,
-    "timeDay": 625,
-    "timeWeek": 735,
-    "timeMonth": 683,
-    "timeYear": 673,
+    "time": 677,
+    "timeDay": 845,
+    "timeWeek": 766,
+    "timeMonth": 669,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2022-06-18": 23,
       "2022-06-15": 24
@@ -71,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 399,
-    "timeWeek": 377,
-    "timeMonth": 350,
-    "timeYear": 347,
+    "time": 349,
+    "timeDay": 412,
+    "timeWeek": 402,
+    "timeMonth": 354,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.85%",
-    "time": 683,
-    "timeDay": 1023,
-    "timeWeek": 968,
-    "timeMonth": 766,
-    "timeYear": 683,
+    "time": 699,
+    "timeDay": 1433,
+    "timeWeek": 1105,
+    "timeMonth": 802,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2022-06-19": 79
     }
@@ -109,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.76%",
-    "time": 1525,
-    "timeDay": 2449,
-    "timeWeek": 1773,
-    "timeMonth": 1579,
-    "timeYear": 1525,
+    "time": 1555,
+    "timeDay": 3093,
+    "timeWeek": 2054,
+    "timeMonth": 1623,
+    "timeYear": 1555,
     "dailyMinutesDown": {
       "2022-06-02": 85,
       "2022-05-29": 43
@@ -130,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 311,
-    "timeWeek": 275,
-    "timeMonth": 284,
-    "timeYear": 273,
+    "time": 277,
+    "timeDay": 416,
+    "timeWeek": 321,
+    "timeMonth": 287,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   }
 ]
