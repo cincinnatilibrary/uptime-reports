@@ -1,6 +1,8 @@
 # Change these first
 owner: cincinnatilibrary # Your GitHub organization or username, where this repository lives
 repo:  uptime-reports # The name of this repository
+assignees:
+  - rayvoelker
 
 sites:
   - name: CHPL Classic WebPAC (Public Access Catalog)  
