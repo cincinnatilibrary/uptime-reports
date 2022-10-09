@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalog.cincinnatilibrary.org.ico",
     "slug": "chpl-encore-discovery-layer",
     "status": "up",
-    "uptime": "93.21%",
+    "uptime": "93.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "69.74%",
-    "uptimeYear": "93.21%",
+    "uptimeYear": "93.22%",
     "time": 855,
     "timeDay": 1638,
     "timeWeek": 1788,
@@ -133,17 +133,19 @@
     "url": "https://cincinnatilibrary.libcal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.libcal.com.ico",
     "slug": "chpl-libcal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 194,
-    "timeWeek": 218,
-    "timeMonth": 250,
-    "timeYear": 274,
-    "dailyMinutesDown": {}
+    "time": 302,
+    "timeDay": 1857,
+    "timeWeek": 631,
+    "timeMonth": 355,
+    "timeYear": 302,
+    "dailyMinutesDown": {
+      "2022-10-09": 0
+    }
   }
 ]
