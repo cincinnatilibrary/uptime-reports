@@ -133,19 +133,19 @@
     "url": "https://cincinnatilibrary.libcal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.libcal.com.ico",
     "slug": "chpl-libcal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 302,
-    "timeDay": 1857,
-    "timeWeek": 631,
-    "timeMonth": 355,
+    "timeDay": 1335,
+    "timeWeek": 593,
+    "timeMonth": 353,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2022-10-09": 0
+      "2022-10-09": 40
     }
   }
 ]
