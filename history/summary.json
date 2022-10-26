@@ -4,28 +4,30 @@
     "url": "https://classic.cincinnatilibrary.org/",
     "icon": "https://icons.duckduckgo.com/ip3/classic.cincinnatilibrary.org.ico",
     "slug": "chpl-classic-web-pac-public-access-catalog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 440,
     "timeDay": 264,
     "timeWeek": 384,
     "timeMonth": 383,
     "timeYear": 440,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-26": 2
+    }
   },
   {
     "name": "CHPL Sierra REST API",
     "url": "https://classic.cincinnatilibrary.org/iii/sierra-api/about",
     "icon": "https://icons.duckduckgo.com/ip3/classic.cincinnatilibrary.org.ico",
     "slug": "chpl-sierra-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
@@ -33,25 +35,28 @@
     "timeWeek": 53,
     "timeMonth": 50,
     "timeYear": 58,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-26": 2
+    }
   },
   {
     "name": "CHPL Encore Discovery Layer",
     "url": "https://catalog.cincinnatilibrary.org",
     "icon": "https://icons.duckduckgo.com/ip3/catalog.cincinnatilibrary.org.ico",
     "slug": "chpl-encore-discovery-layer",
-    "status": "up",
-    "uptime": "93.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "93.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.96%",
+    "uptimeYear": "93.98%",
     "time": 991,
     "timeDay": 2059,
     "timeWeek": 1997,
     "timeMonth": 1863,
     "timeYear": 991,
     "dailyMinutesDown": {
+      "2022-10-26": 1,
       "2022-09-21": 956,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -74,10 +79,10 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 359,
@@ -85,16 +90,18 @@
     "timeWeek": 344,
     "timeMonth": 330,
     "timeYear": 359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-26": 1
+    }
   },
   {
     "name": "CHPL Main Web Site / BiblioWeb",
     "url": "https://cincinnatilibrary.org/",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.org.ico",
     "slug": "chpl-main-web-site-biblio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.94%",
@@ -104,6 +111,7 @@
     "timeMonth": 813,
     "timeYear": 805,
     "dailyMinutesDown": {
+      "2022-10-26": 0,
       "2022-10-23": 51,
       "2022-06-19": 79
     }
