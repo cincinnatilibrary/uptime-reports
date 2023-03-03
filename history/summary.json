@@ -161,18 +161,19 @@
     "url": "https://cincinnatilibrary.libcal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.libcal.com.ico",
     "slug": "chpl-libcal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 288,
-    "timeDay": 149,
-    "timeWeek": 218,
-    "timeMonth": 298,
+    "timeDay": 191,
+    "timeWeek": 220,
+    "timeMonth": 296,
     "timeYear": 288,
     "dailyMinutesDown": {
+      "2023-03-03": 0,
       "2022-10-09": 40
     }
   }
