@@ -13,7 +13,7 @@
     "time": 578,
     "timeDay": 453,
     "timeWeek": 407,
-    "timeMonth": 1130,
+    "timeMonth": 1147,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2023-04-02": 53,
@@ -41,7 +41,7 @@
     "time": 126,
     "timeDay": 41,
     "timeWeek": 50,
-    "timeMonth": 571,
+    "timeMonth": 583,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2023-04-02": 53,
@@ -65,7 +65,7 @@
     "time": 1673,
     "timeDay": 1548,
     "timeWeek": 1624,
-    "timeMonth": 2709,
+    "timeMonth": 2708,
     "timeYear": 1673,
     "dailyMinutesDown": {
       "2023-03-31": 192,
@@ -107,7 +107,7 @@
     "time": 562,
     "timeDay": 394,
     "timeWeek": 309,
-    "timeMonth": 1374,
+    "timeMonth": 1398,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2023-03-31": 73,
@@ -131,7 +131,7 @@
     "time": 1157,
     "timeDay": 692,
     "timeWeek": 684,
-    "timeMonth": 2710,
+    "timeMonth": 2754,
     "timeYear": 1157,
     "dailyMinutesDown": {
       "2023-03-31": 170,
@@ -160,9 +160,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1468,
-    "timeDay": 964,
+    "timeDay": 1044,
     "timeWeek": 1183,
-    "timeMonth": 1294,
+    "timeMonth": 1300,
     "timeYear": 1468,
     "dailyMinutesDown": {
       "2023-01-20": 82,
@@ -176,19 +176,19 @@
     "url": "https://cincinnatilibrary.libcal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.libcal.com.ico",
     "slug": "chpl-libcal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 369,
-    "timeDay": 9110,
-    "timeWeek": 3172,
-    "timeMonth": 1023,
-    "timeYear": 369,
+    "time": 387,
+    "timeDay": 8310,
+    "timeWeek": 3445,
+    "timeMonth": 1194,
+    "timeYear": 387,
     "dailyMinutesDown": {
-      "2023-04-08": 0,
+      "2023-04-08": 8,
       "2022-10-09": 40
     }
   }
