@@ -19,6 +19,10 @@ sites:
     url: https://cincinnatilibrary.bibliocommons.com
   - name: CHPL libcal
     url: https://cincinnatilibrary.libcal.com/
+  - name: Collection Analysis Datasette
+    url: https://collection-analysis.cincy.pl/
+  - name: Newsdex
+  - url: http://newsdex.chpl.org/
     
 status-website:
   baseUrl: /uptime-reports # where "repo" is your repository name
