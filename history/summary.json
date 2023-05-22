@@ -65,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalog.cincinnatilibrary.org.ico",
     "slug": "chpl-encore-discovery-layer",
     "status": "up",
-    "uptime": "97.32%",
+    "uptime": "97.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "97.32%",
+    "uptimeYear": "97.33%",
     "time": 1740,
     "timeDay": 2131,
     "timeWeek": 1956,
@@ -230,9 +230,9 @@
     "url": "http://newsdex.chpl.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -241,6 +241,8 @@
     "timeWeek": 408,
     "timeMonth": 378,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-22": 0
+    }
   }
 ]
