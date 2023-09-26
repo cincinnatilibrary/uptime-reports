@@ -70,9 +70,9 @@
     "slug": "chpl-encore-discovery-layer",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1748,
     "timeDay": 1037,
@@ -80,7 +80,6 @@
     "timeMonth": 1630,
     "timeYear": 1996,
     "dailyMinutesDown": {
-      "2023-09-25": 6,
       "2023-07-12": 20,
       "2023-06-15": 33,
       "2023-04-27": 26,
@@ -167,17 +166,16 @@
     "slug": "chpl-discovery-layer-biblio-core",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 1371,
     "timeDay": 493,
     "timeWeek": 889,
     "timeMonth": 1059,
     "timeYear": 1255,
     "dailyMinutesDown": {
-      "2023-09-25": 6,
       "2023-01-20": 82,
       "2023-01-19": 44
     }
@@ -208,18 +206,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "46.18%",
-    "uptimeWeek": "92.31%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.60%",
+    "uptimeDay": "41.06%",
+    "uptimeWeek": "91.58%",
+    "uptimeMonth": "98.06%",
+    "uptimeYear": "99.60%",
     "time": 160,
     "timeDay": 156,
     "timeWeek": 135,
     "timeMonth": 166,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-09-25": 775
+      "2023-09-26": 61,
+      "2023-09-25": 787
     }
   },
   {
