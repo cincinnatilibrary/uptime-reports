@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 515,
-    "timeDay": 379,
-    "timeWeek": 400,
-    "timeMonth": 370,
-    "timeYear": 515,
+    "timeDay": 553,
+    "timeWeek": 434,
+    "timeMonth": 378,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2023-10-22": 72,
       "2023-07-12": 21,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 106,
-    "timeDay": 40,
-    "timeWeek": 31,
-    "timeMonth": 35,
-    "timeYear": 126,
+    "time": 107,
+    "timeDay": 74,
+    "timeWeek": 39,
+    "timeMonth": 37,
+    "timeYear": 102,
     "dailyMinutesDown": {
       "2023-10-22": 72,
       "2023-07-12": 21,
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1896,
-    "timeDay": 1544,
-    "timeWeek": 1510,
-    "timeMonth": 1527,
-    "timeYear": 1876,
+    "time": 1898,
+    "timeDay": 2205,
+    "timeWeek": 1631,
+    "timeMonth": 1539,
+    "timeYear": 1874,
     "dailyMinutesDown": {
       "2023-12-07": 15,
       "2023-12-03": 387,
@@ -81,8 +81,7 @@
       "2023-04-17": 19,
       "2023-04-11": 22,
       "2023-03-31": 192,
-      "2023-03-28": 52,
-      "2023-03-27": 2
+      "2023-03-28": 52
     }
   },
   {
@@ -97,10 +96,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 496,
-    "timeDay": 453,
-    "timeWeek": 345,
-    "timeMonth": 330,
-    "timeYear": 481,
+    "timeDay": 450,
+    "timeWeek": 363,
+    "timeMonth": 331,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2023-08-11": 50,
       "2023-07-12": 20,
@@ -110,8 +109,7 @@
       "2023-04-17": 18,
       "2023-04-11": 22,
       "2023-03-31": 73,
-      "2023-03-28": 52,
-      "2023-03-27": 2
+      "2023-03-28": 52
     }
   },
   {
@@ -126,18 +124,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1046,
-    "timeDay": 661,
-    "timeWeek": 518,
-    "timeMonth": 574,
-    "timeYear": 1085,
+    "timeDay": 1248,
+    "timeWeek": 607,
+    "timeMonth": 594,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2023-12-03": 170,
       "2023-11-07": 18,
       "2023-07-30": 186,
       "2023-06-15": 32,
       "2023-03-31": 170,
-      "2023-03-28": 52,
-      "2023-03-27": 1
+      "2023-03-28": 52
     }
   },
   {
@@ -151,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1266,
-    "timeDay": 1196,
-    "timeWeek": 1406,
-    "timeMonth": 1135,
-    "timeYear": 1241,
+    "time": 1265,
+    "timeDay": 1613,
+    "timeWeek": 1507,
+    "timeMonth": 1157,
+    "timeYear": 1244,
     "dailyMinutesDown": {
       "2023-12-07": 15,
       "2023-12-03": 386
@@ -173,9 +170,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 169,
-    "timeWeek": 199,
-    "timeMonth": 201,
+    "timeDay": 368,
+    "timeWeek": 216,
+    "timeMonth": 209,
     "timeYear": 348,
     "dailyMinutesDown": {}
   },
@@ -185,16 +182,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "96.47%",
+    "uptime": "96.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.46%",
     "uptimeMonth": "98.13%",
-    "uptimeYear": "96.47%",
-    "time": 595,
-    "timeDay": 105,
-    "timeWeek": 4414,
-    "timeMonth": 1575,
-    "timeYear": 595,
+    "uptimeYear": "96.48%",
+    "time": 594,
+    "timeDay": 259,
+    "timeWeek": 4426,
+    "timeMonth": 1579,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2024-03-23": 40,
       "2024-03-21": 54,
@@ -247,11 +244,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 539,
-    "timeDay": 421,
-    "timeWeek": 436,
-    "timeMonth": 452,
-    "timeYear": 539,
+    "time": 540,
+    "timeDay": 716,
+    "timeWeek": 464,
+    "timeMonth": 451,
+    "timeYear": 540,
     "dailyMinutesDown": {
       "2023-06-15": 31
     }
