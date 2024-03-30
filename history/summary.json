@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 515,
-    "timeDay": 374,
-    "timeWeek": 409,
-    "timeMonth": 381,
+    "time": 514,
+    "timeDay": 354,
+    "timeWeek": 395,
+    "timeMonth": 380,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2023-10-22": 72,
@@ -23,8 +23,7 @@
       "2023-04-18": 45,
       "2023-04-17": 20,
       "2023-04-11": 23,
-      "2023-04-02": 53,
-      "2023-03-31": 157
+      "2023-04-02": 53
     }
   },
   {
@@ -39,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 107,
-    "timeDay": 34,
-    "timeWeek": 42,
-    "timeMonth": 37,
+    "timeDay": 68,
+    "timeWeek": 45,
+    "timeMonth": 38,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2023-10-22": 72,
@@ -51,8 +50,7 @@
       "2023-04-18": 26,
       "2023-04-17": 19,
       "2023-04-11": 23,
-      "2023-04-02": 53,
-      "2023-03-31": 19
+      "2023-04-02": 53
     }
   },
   {
@@ -66,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1898,
-    "timeDay": 2127,
-    "timeWeek": 1576,
-    "timeMonth": 1532,
+    "time": 1897,
+    "timeDay": 1752,
+    "timeWeek": 1585,
+    "timeMonth": 1538,
     "timeYear": 1868,
     "dailyMinutesDown": {
       "2023-12-07": 15,
@@ -79,8 +77,7 @@
       "2023-04-27": 26,
       "2023-04-18": 25,
       "2023-04-17": 19,
-      "2023-04-11": 22,
-      "2023-03-31": 192
+      "2023-04-11": 22
     }
   },
   {
@@ -95,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 496,
-    "timeDay": 371,
-    "timeWeek": 375,
-    "timeMonth": 333,
-    "timeYear": 459,
+    "timeDay": 516,
+    "timeWeek": 403,
+    "timeMonth": 339,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2023-08-11": 50,
       "2023-07-12": 20,
@@ -106,8 +103,7 @@
       "2023-04-27": 20,
       "2023-04-18": 25,
       "2023-04-17": 18,
-      "2023-04-11": 22,
-      "2023-03-31": 73
+      "2023-04-11": 22
     }
   },
   {
@@ -122,16 +118,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1064,
-    "timeDay": 593,
-    "timeWeek": 681,
-    "timeMonth": 606,
-    "timeYear": 981,
+    "timeDay": 1174,
+    "timeWeek": 757,
+    "timeMonth": 625,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2023-12-03": 170,
       "2023-11-07": 18,
       "2023-07-30": 186,
-      "2023-06-15": 32,
-      "2023-03-31": 170
+      "2023-06-15": 32
     }
   },
   {
@@ -146,9 +141,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1262,
-    "timeDay": 1262,
-    "timeWeek": 1009,
-    "timeMonth": 1147,
+    "timeDay": 988,
+    "timeWeek": 1038,
+    "timeMonth": 1143,
     "timeYear": 1239,
     "dailyMinutesDown": {
       "2023-12-07": 15,
@@ -166,10 +161,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 190,
-    "timeWeek": 197,
-    "timeMonth": 212,
+    "time": 329,
+    "timeDay": 392,
+    "timeWeek": 236,
+    "timeMonth": 218,
     "timeYear": 348,
     "dailyMinutesDown": {}
   },
@@ -179,15 +174,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "96.49%",
-    "uptimeDay": "95.71%",
+    "uptime": "96.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.84%",
     "uptimeMonth": "98.07%",
-    "uptimeYear": "96.49%",
+    "uptimeYear": "96.50%",
     "time": 647,
-    "timeDay": 134,
-    "timeWeek": 2053,
-    "timeMonth": 1984,
+    "timeDay": 502,
+    "timeWeek": 2087,
+    "timeMonth": 1952,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2024-03-28": 62,
@@ -244,9 +239,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 538,
-    "timeDay": 373,
-    "timeWeek": 417,
-    "timeMonth": 431,
+    "timeDay": 631,
+    "timeWeek": 444,
+    "timeMonth": 438,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2023-06-15": 31
