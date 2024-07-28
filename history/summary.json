@@ -141,9 +141,9 @@
     "url": "https://cincinnatilibrary.libcal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.libcal.com.ico",
     "slug": "chpl-libcal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,7 +152,9 @@
     "timeWeek": 223,
     "timeMonth": 264,
     "timeYear": 254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   },
   {
     "name": "Collection Analysis Datasette",
@@ -160,18 +162,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "down",
-    "uptime": "89.21%",
-    "uptimeDay": "23.34%",
+    "uptime": "89.15%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "59.73%",
-    "uptimeMonth": "61.56%",
-    "uptimeYear": "86.63%",
+    "uptimeMonth": "60.56%",
+    "uptimeYear": "86.54%",
     "time": 663,
-    "timeDay": 248,
+    "timeDay": 307,
     "timeWeek": 237,
     "timeMonth": 590,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2024-07-28": 76,
+      "2024-07-28": 514,
       "2024-07-27": 1028,
       "2024-07-25": 81,
       "2024-07-24": 83,
