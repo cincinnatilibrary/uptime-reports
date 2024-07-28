@@ -141,19 +141,19 @@
     "url": "https://cincinnatilibrary.libcal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.libcal.com.ico",
     "slug": "chpl-libcal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 217,
-    "timeWeek": 223,
-    "timeMonth": 264,
+    "timeDay": 276,
+    "timeWeek": 242,
+    "timeMonth": 268,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-07-28": 0
+      "2024-07-28": 6
     }
   },
   {
@@ -165,7 +165,7 @@
     "uptime": "89.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "59.73%",
-    "uptimeMonth": "60.56%",
+    "uptimeMonth": "60.55%",
     "uptimeYear": "86.54%",
     "time": 663,
     "timeDay": 307,
@@ -173,7 +173,7 @@
     "timeMonth": 590,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2024-07-28": 514,
+      "2024-07-28": 520,
       "2024-07-27": 1028,
       "2024-07-25": 81,
       "2024-07-24": 83,
