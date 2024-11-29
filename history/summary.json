@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalog.cincinnatilibrary.org.ico",
     "slug": "chpl-encore-discovery-layer",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -166,18 +166,19 @@
     "url": "https://collection-analysis.cincy.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
-    "status": "up",
-    "uptime": "91.69%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "91.70%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "86.88%",
-    "time": 878,
+    "uptimeYear": "86.89%",
+    "time": 879,
     "timeDay": 259,
     "timeWeek": 222,
     "timeMonth": 201,
     "timeYear": 986,
     "dailyMinutesDown": {
+      "2024-11-29": 0,
       "2024-11-13": 124,
       "2024-11-12": 6,
       "2024-10-22": 44,
@@ -296,7 +297,7 @@
       "2024-03-09": 42,
       "2024-03-07": 95,
       "2024-03-05": 87,
-      "2024-03-03": 122
+      "2024-03-03": 77
     }
   },
   {
