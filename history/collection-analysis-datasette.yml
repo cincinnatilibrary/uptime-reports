@@ -1,7 +1,7 @@
 url: https://collection-analysis.cincy.pl/
-status: up
-code: 200
-responseTime: 111
-lastUpdated: 2024-12-17T08:53:30.109Z
+status: down
+code: 503
+responseTime: 140
+lastUpdated: 2024-12-17T14:14:22.223Z
 startTime: 2023-05-02T17:42:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
