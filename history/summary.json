@@ -161,18 +161,19 @@
     "url": "https://collection-analysis.cincy.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
-    "status": "up",
-    "uptime": "92.25%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "92.32%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.61%",
-    "uptimeYear": "87.04%",
+    "uptimeYear": "87.16%",
     "time": 980,
-    "timeDay": 287,
-    "timeWeek": 1002,
-    "timeMonth": 1324,
-    "timeYear": 1087,
+    "timeDay": 187,
+    "timeWeek": 944,
+    "timeMonth": 1315,
+    "timeYear": 1086,
     "dailyMinutesDown": {
+      "2025-01-02": 0,
       "2024-12-23": 50,
       "2024-12-21": 22,
       "2024-12-20": 49,
@@ -272,8 +273,7 @@
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
-      "2024-05-09": 966,
-      "2024-05-07": 613
+      "2024-05-09": 966
     }
   },
   {
