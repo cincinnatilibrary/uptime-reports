@@ -13,7 +13,7 @@
     "time": 434,
     "timeDay": 356,
     "timeWeek": 638,
-    "timeMonth": 565,
+    "timeMonth": 573,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2024-09-12": 101,
@@ -36,7 +36,7 @@
     "time": 45,
     "timeDay": 37,
     "timeWeek": 48,
-    "timeMonth": 48,
+    "timeMonth": 49,
     "timeYear": 44,
     "dailyMinutesDown": {
       "2024-09-12": 101,
@@ -58,7 +58,7 @@
     "time": 1837,
     "timeDay": 1729,
     "timeWeek": 1566,
-    "timeMonth": 1425,
+    "timeMonth": 1438,
     "timeYear": 1861,
     "dailyMinutesDown": {
       "2024-10-25": 27,
@@ -85,7 +85,7 @@
     "time": 366,
     "timeDay": 451,
     "timeWeek": 463,
-    "timeMonth": 401,
+    "timeMonth": 406,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2024-09-12": 100
@@ -105,7 +105,7 @@
     "time": 1052,
     "timeDay": 702,
     "timeWeek": 1417,
-    "timeMonth": 1132,
+    "timeMonth": 1149,
     "timeYear": 1163,
     "dailyMinutesDown": {
       "2024-04-03": 84,
@@ -126,7 +126,7 @@
     "time": 1393,
     "timeDay": 651,
     "timeWeek": 856,
-    "timeMonth": 914,
+    "timeMonth": 928,
     "timeYear": 1409,
     "dailyMinutesDown": {
       "2024-10-25": 19,
@@ -161,19 +161,19 @@
     "url": "https://collection-analysis.cincy.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
-    "status": "down",
+    "status": "up",
     "uptime": "94.34%",
-    "uptimeDay": "90.72%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "90.38%",
-    "time": 993,
-    "timeDay": 336,
-    "timeWeek": 1450,
-    "timeMonth": 1381,
-    "timeYear": 1116,
+    "uptimeDay": "90.36%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "90.37%",
+    "time": 994,
+    "timeDay": 351,
+    "timeWeek": 1431,
+    "timeMonth": 1383,
+    "timeYear": 1115,
     "dailyMinutesDown": {
-      "2025-01-11": 133,
+      "2025-01-11": 138,
       "2025-01-10": 113,
       "2025-01-09": 72,
       "2024-12-23": 50,
@@ -274,7 +274,7 @@
     "time": 529,
     "timeDay": 629,
     "timeWeek": 572,
-    "timeMonth": 549,
+    "timeMonth": 560,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2024-09-12": 99
