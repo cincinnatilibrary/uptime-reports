@@ -13,8 +13,8 @@
     "time": 439,
     "timeDay": 375,
     "timeWeek": 397,
-    "timeMonth": 484,
-    "timeYear": 441,
+    "timeMonth": 501,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2025-02-26": 15,
       "2024-09-12": 101,
@@ -37,7 +37,7 @@
     "time": 45,
     "timeDay": 37,
     "timeWeek": 57,
-    "timeMonth": 49,
+    "timeMonth": 51,
     "timeYear": 45,
     "dailyMinutesDown": {
       "2024-09-12": 101,
@@ -52,17 +52,16 @@
     "slug": "chpl-encore-discovery-layer",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.72%",
     "time": 1766,
     "timeDay": 1070,
     "timeWeek": 1214,
-    "timeMonth": 1178,
-    "timeYear": 1794,
+    "timeMonth": 1182,
+    "timeYear": 1795,
     "dailyMinutesDown": {
-      "2025-02-28": 8,
       "2025-02-27": 29,
       "2025-02-19": 67,
       "2025-02-16": 32,
@@ -92,7 +91,7 @@
     "time": 368,
     "timeDay": 523,
     "timeWeek": 447,
-    "timeMonth": 383,
+    "timeMonth": 388,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2024-09-12": 100
@@ -112,8 +111,8 @@
     "time": 1058,
     "timeDay": 1846,
     "timeWeek": 1174,
-    "timeMonth": 988,
-    "timeYear": 1198,
+    "timeMonth": 993,
+    "timeYear": 1200,
     "dailyMinutesDown": {
       "2024-04-03": 84,
       "2024-04-02": 150
@@ -126,17 +125,16 @@
     "slug": "chpl-discovery-layer-biblio-core",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.77%",
     "time": 1345,
     "timeDay": 609,
     "timeWeek": 545,
-    "timeMonth": 599,
+    "timeMonth": 601,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2025-02-28": 8,
       "2025-02-27": 29,
       "2025-02-19": 67,
       "2025-02-16": 32,
@@ -165,8 +163,8 @@
     "time": 261,
     "timeDay": 171,
     "timeWeek": 278,
-    "timeMonth": 249,
-    "timeYear": 266,
+    "timeMonth": 254,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   },
   {
@@ -183,8 +181,8 @@
     "time": 1031,
     "timeDay": 92,
     "timeWeek": 309,
-    "timeMonth": 281,
-    "timeYear": 1079,
+    "timeMonth": 287,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2025-02-21": 256,
       "2025-02-17": 1176,
@@ -279,8 +277,8 @@
     "time": 529,
     "timeDay": 502,
     "timeWeek": 541,
-    "timeMonth": 512,
-    "timeYear": 533,
+    "timeMonth": 527,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2024-09-12": 99
     }
