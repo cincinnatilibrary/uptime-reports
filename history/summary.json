@@ -210,7 +210,7 @@
     "slug": "collection-analysis-datasette",
     "status": "down",
     "uptime": "97.15%",
-    "uptimeDay": "67.37%",
+    "uptimeDay": "67.22%",
     "uptimeWeek": "74.29%",
     "uptimeMonth": "75.69%",
     "uptimeYear": "94.15%",
@@ -220,7 +220,7 @@
     "timeMonth": 1651,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2025-05-20": 0,
+      "2025-05-20": 2,
       "2025-05-19": 470,
       "2025-05-18": 441,
       "2025-05-17": 368,
@@ -310,7 +310,7 @@
     "timeMonth": 261,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-05-20": 100,
+      "2025-05-20": 102,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
