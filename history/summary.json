@@ -212,13 +212,13 @@
     "url": "https://collection-analysis.cincy.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
-    "status": "up",
+    "status": "down",
     "uptime": "96.84%",
-    "uptimeDay": "98.67%",
+    "uptimeDay": "98.65%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "86.48%",
     "uptimeYear": "93.26%",
-    "time": 1104,
+    "time": 1097,
     "timeDay": 289,
     "timeWeek": 221,
     "timeMonth": 853,
@@ -302,7 +302,7 @@
       "2025-01-13": 249,
       "2025-01-12": 16,
       "2025-01-11": 133,
-      "2025-01-10": 49
+      "2025-01-10": 24
     }
   },
   {
@@ -311,7 +311,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "88.17%",
+    "uptime": "88.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -322,7 +322,7 @@
     "timeMonth": 251,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-06-18": 935,
+      "2025-06-18": 956,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
