@@ -1,7 +1,7 @@
 url: https://cincinnatilibrary.bibliocommons.com
-status: up
-code: 200
-responseTime: 428
-lastUpdated: 2025-09-02T17:57:07.742Z
+status: down
+code: 403
+responseTime: 80
+lastUpdated: 2025-09-02T21:23:09.867Z
 startTime: 2022-05-24T14:33:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
