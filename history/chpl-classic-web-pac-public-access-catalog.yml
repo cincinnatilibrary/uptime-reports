@@ -1,7 +1,7 @@
 url: https://classic.cincinnatilibrary.org/
-status: up
-code: 200
-responseTime: 488
-lastUpdated: 2025-12-06T23:21:16.512Z
+status: down
+code: 502
+responseTime: 474
+lastUpdated: 2025-12-07T03:03:21.217Z
 startTime: 2022-05-24T14:33:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
