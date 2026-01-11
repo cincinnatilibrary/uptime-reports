@@ -1,7 +1,7 @@
 url: https://cincinnatilibrary.org/
-status: up
-code: 200
-responseTime: 1584
-lastUpdated: 2026-01-10T23:22:59.414Z
+status: down
+code: 504
+responseTime: 15314
+lastUpdated: 2026-01-11T07:39:16.052Z
 startTime: 2022-05-24T14:33:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
