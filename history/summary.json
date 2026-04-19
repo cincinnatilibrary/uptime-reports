@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 413,
-    "timeDay": 333,
-    "timeWeek": 298,
-    "timeMonth": 407,
-    "timeYear": 414,
+    "timeDay": 256,
+    "timeWeek": 280,
+    "timeMonth": 410,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2026-01-26": 52,
       "2025-12-10": 111,
@@ -43,8 +43,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 75,
-    "timeDay": 19,
-    "timeWeek": 36,
+    "timeDay": 29,
+    "timeWeek": 35,
     "timeMonth": 37,
     "timeYear": 87,
     "dailyMinutesDown": {
@@ -74,10 +74,10 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.87%",
     "time": 1410,
-    "timeDay": 1381,
-    "timeWeek": 1355,
-    "timeMonth": 1353,
-    "timeYear": 1502,
+    "timeDay": 821,
+    "timeWeek": 1245,
+    "timeMonth": 1314,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2026-04-01": 49,
       "2025-12-30": 18,
@@ -96,8 +96,7 @@
       "2025-05-11": 43,
       "2025-04-27": 43,
       "2025-04-26": 15,
-      "2025-04-24": 18,
-      "2025-04-19": 37
+      "2025-04-24": 18
     }
   },
   {
@@ -106,18 +105,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "88.27%",
+    "uptime": "88.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.31%",
-    "time": 307,
-    "timeDay": 232,
-    "timeWeek": 219,
-    "timeMonth": 123,
+    "uptimeYear": "54.03%",
+    "time": 306,
+    "timeDay": 119,
+    "timeWeek": 205,
+    "timeMonth": 121,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2026-04-18": 152,
+      "2026-04-19": 169,
+      "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
@@ -303,8 +303,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 923,
-    "timeDay": 533,
-    "timeWeek": 1288,
+    "timeDay": 360,
+    "timeWeek": 1280,
     "timeMonth": 785,
     "timeYear": 900,
     "dailyMinutesDown": {
@@ -323,10 +323,10 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.86%",
     "time": 924,
-    "timeDay": 329,
-    "timeWeek": 630,
-    "timeMonth": 941,
-    "timeYear": 1012,
+    "timeDay": 1093,
+    "timeWeek": 737,
+    "timeMonth": 959,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2026-04-01": 49,
       "2025-12-29": 23,
@@ -344,8 +344,7 @@
       "2025-05-11": 43,
       "2025-04-27": 43,
       "2025-04-26": 16,
-      "2025-04-24": 18,
-      "2025-04-19": 37
+      "2025-04-24": 18
     }
   },
   {
@@ -360,10 +359,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 342,
-    "timeWeek": 277,
-    "timeMonth": 263,
-    "timeYear": 300,
+    "timeDay": 343,
+    "timeWeek": 308,
+    "timeMonth": 268,
+    "timeYear": 301,
     "dailyMinutesDown": {}
   },
   {
@@ -372,18 +371,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "down",
-    "uptime": "74.43%",
+    "uptime": "74.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.35%",
+    "uptimeYear": "24.15%",
     "time": 771,
-    "timeDay": 49,
-    "timeWeek": 122,
-    "timeMonth": 115,
-    "timeYear": 690,
+    "timeDay": 220,
+    "timeWeek": 129,
+    "timeMonth": 117,
+    "timeYear": 687,
     "dailyMinutesDown": {
-      "2026-04-18": 153,
+      "2026-04-19": 169,
+      "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
@@ -706,8 +706,7 @@
       "2025-04-23": 316,
       "2025-04-22": 310,
       "2025-04-21": 246,
-      "2025-04-20": 241,
-      "2025-04-19": 236
+      "2025-04-20": 241
     }
   },
   {
@@ -716,18 +715,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "63.42%",
+    "uptime": "63.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 305,
-    "timeDay": 263,
-    "timeWeek": 177,
-    "timeMonth": 180,
+    "timeDay": 157,
+    "timeWeek": 164,
+    "timeMonth": 178,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2026-04-18": 153,
+      "2026-04-19": 169,
+      "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
@@ -1090,8 +1090,7 @@
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
-      "2025-04-20": 1440,
-      "2025-04-19": 1440
+      "2025-04-20": 1440
     }
   }
 ]
