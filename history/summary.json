@@ -12,7 +12,7 @@
     "uptimeYear": "99.61%",
     "time": 409,
     "timeDay": 272,
-    "timeWeek": 384,
+    "timeWeek": 383,
     "timeMonth": 317,
     "timeYear": 410,
     "dailyMinutesDown": {
@@ -42,7 +42,7 @@
     "uptimeYear": "99.74%",
     "time": 75,
     "timeDay": 143,
-    "timeWeek": 46,
+    "timeWeek": 47,
     "timeMonth": 42,
     "timeYear": 87,
     "dailyMinutesDown": {
@@ -71,7 +71,7 @@
     "uptimeYear": "99.88%",
     "time": 1421,
     "timeDay": 2226,
-    "timeWeek": 1562,
+    "timeWeek": 1548,
     "timeMonth": 1414,
     "timeYear": 1549,
     "dailyMinutesDown": {
@@ -98,18 +98,19 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "87.11%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeDay": "1.23%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "1.42%",
     "uptimeYear": "49.15%",
     "time": 296,
-    "timeDay": 236,
-    "timeWeek": 178,
-    "timeMonth": 146,
-    "timeYear": 272,
+    "timeDay": 126,
+    "timeWeek": 150,
+    "timeMonth": 141,
+    "timeYear": 271,
     "dailyMinutesDown": {
+      "2026-05-07": 0,
       "2026-05-06": 1434,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -314,7 +315,7 @@
     "uptimeYear": "99.97%",
     "time": 909,
     "timeDay": 935,
-    "timeWeek": 502,
+    "timeWeek": 497,
     "timeMonth": 786,
     "timeYear": 889,
     "dailyMinutesDown": {
@@ -335,7 +336,7 @@
     "uptimeYear": "99.87%",
     "time": 940,
     "timeDay": 1581,
-    "timeWeek": 1233,
+    "timeWeek": 1258,
     "timeMonth": 891,
     "timeYear": 1059,
     "dailyMinutesDown": {
@@ -369,7 +370,7 @@
     "uptimeYear": "99.99%",
     "time": 303,
     "timeDay": 380,
-    "timeWeek": 265,
+    "timeWeek": 267,
     "timeMonth": 276,
     "timeYear": 302,
     "dailyMinutesDown": {
@@ -383,13 +384,13 @@
     "slug": "collection-analysis-datasette",
     "status": "up",
     "uptime": "73.23%",
-    "uptimeDay": "75.66%",
-    "uptimeWeek": "10.81%",
-    "uptimeMonth": "3.87%",
+    "uptimeDay": "76.89%",
+    "uptimeWeek": "10.98%",
+    "uptimeMonth": "3.91%",
     "uptimeYear": "20.56%",
     "time": 742,
     "timeDay": 137,
-    "timeWeek": 109,
+    "timeWeek": 114,
     "timeMonth": 117,
     "timeYear": 558,
     "dailyMinutesDown": {
@@ -716,8 +717,7 @@
       "2025-05-11": 345,
       "2025-05-10": 354,
       "2025-05-09": 426,
-      "2025-05-08": 388,
-      "2025-05-07": 394
+      "2025-05-08": 388
     }
   },
   {
@@ -733,11 +733,12 @@
     "uptimeYear": "0.03%",
     "time": 287,
     "timeDay": 124,
-    "timeWeek": 185,
+    "timeWeek": 178,
     "timeMonth": 173,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2026-05-06": 1297,
+      "2026-05-07": 12,
+      "2026-05-06": 1302,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -1100,8 +1101,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   }
 ]
