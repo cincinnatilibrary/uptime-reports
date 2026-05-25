@@ -98,14 +98,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "86.35%",
+    "uptime": "86.34%",
     "uptimeDay": "14.22%",
-    "uptimeWeek": "28.95%",
+    "uptimeWeek": "28.18%",
     "uptimeMonth": "18.12%",
-    "uptimeYear": "45.42%",
+    "uptimeYear": "45.40%",
     "time": 264,
     "timeDay": 59,
-    "timeWeek": 97,
+    "timeWeek": 98,
     "timeMonth": 110,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -316,7 +316,7 @@
       "2026-05-22": 867,
       "2026-05-23": 1060,
       "2026-05-24": 1194,
-      "2026-05-25": 837
+      "2026-05-25": 930
     }
   },
   {
@@ -397,15 +397,15 @@
     "url": "https://collection-analysis.cincy.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
-    "status": "down",
+    "status": "up",
     "uptime": "73.68%",
-    "uptimeDay": "81.32%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "64.67%",
-    "uptimeYear": "21.93%",
-    "time": 537,
-    "timeDay": 146,
-    "timeWeek": 167,
+    "uptimeDay": "74.89%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "64.68%",
+    "uptimeYear": "21.92%",
+    "time": 536,
+    "timeDay": 147,
+    "timeWeek": 164,
     "timeMonth": 138,
     "timeYear": 464,
     "dailyMinutesDown": {
@@ -715,7 +715,7 @@
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
-      "2026-05-25": 269
+      "2026-05-25": 361
     }
   },
   {
@@ -724,13 +724,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "61.66%",
-    "uptimeDay": "22.76%",
-    "uptimeWeek": "20.55%",
+    "uptime": "61.65%",
+    "uptimeDay": "21.96%",
+    "uptimeWeek": "19.78%",
     "uptimeMonth": "14.70%",
     "uptimeYear": "1.11%",
     "time": 258,
-    "timeDay": 105,
+    "timeDay": 81,
     "timeWeek": 111,
     "timeMonth": 128,
     "timeYear": 220,
@@ -1099,7 +1099,7 @@
       "2026-05-22": 1078,
       "2026-05-23": 1231,
       "2026-05-24": 1163,
-      "2026-05-25": 835
+      "2026-05-25": 929
     }
   }
 ]
