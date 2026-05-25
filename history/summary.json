@@ -98,13 +98,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "86.37%",
-    "uptimeDay": "10.15%",
-    "uptimeWeek": "33.54%",
+    "uptime": "86.35%",
+    "uptimeDay": "4.35%",
+    "uptimeWeek": "30.88%",
     "uptimeMonth": "17.79%",
-    "uptimeYear": "45.51%",
+    "uptimeYear": "45.46%",
     "time": 265,
-    "timeDay": 38,
+    "timeDay": 46,
     "timeWeek": 98,
     "timeMonth": 110,
     "timeYear": 231,
@@ -316,7 +316,7 @@
       "2026-05-22": 867,
       "2026-05-23": 1060,
       "2026-05-24": 1194,
-      "2026-05-25": 374
+      "2026-05-25": 642
     }
   },
   {
@@ -397,15 +397,15 @@
     "url": "https://collection-analysis.cincy.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
-    "status": "down",
-    "uptime": "73.68%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "63.90%",
-    "uptimeYear": "21.90%",
-    "time": 537,
-    "timeDay": 138,
-    "timeWeek": 168,
+    "status": "up",
+    "uptime": "73.67%",
+    "uptimeDay": "81.37%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "63.91%",
+    "uptimeYear": "21.87%",
+    "time": 536,
+    "timeDay": 146,
+    "timeWeek": 167,
     "timeMonth": 138,
     "timeYear": 464,
     "dailyMinutesDown": {
@@ -715,7 +715,7 @@
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
-      "2026-05-25": 1
+      "2026-05-25": 268
     }
   },
   {
@@ -724,14 +724,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "61.67%",
+    "uptime": "61.66%",
     "uptimeDay": "19.26%",
-    "uptimeWeek": "23.79%",
+    "uptimeWeek": "22.46%",
     "uptimeMonth": "14.37%",
     "uptimeYear": "1.08%",
     "time": 259,
     "timeDay": 106,
-    "timeWeek": 117,
+    "timeWeek": 113,
     "timeMonth": 128,
     "timeYear": 221,
     "dailyMinutesDown": {
@@ -1099,7 +1099,7 @@
       "2026-05-22": 1078,
       "2026-05-23": 1231,
       "2026-05-24": 1163,
-      "2026-05-25": 374
+      "2026-05-25": 643
     }
   }
 ]
