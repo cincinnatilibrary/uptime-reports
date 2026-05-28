@@ -97,15 +97,15 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "down",
-    "uptime": "86.21%",
-    "uptimeDay": "23.62%",
-    "uptimeWeek": "23.29%",
+    "status": "up",
+    "uptime": "86.20%",
+    "uptimeDay": "23.65%",
+    "uptimeWeek": "22.25%",
     "uptimeMonth": "20.18%",
-    "uptimeYear": "44.74%",
-    "time": 259,
-    "timeDay": 180,
-    "timeWeek": 108,
+    "uptimeYear": "44.71%",
+    "time": 258,
+    "timeDay": 181,
+    "timeWeek": 112,
     "timeMonth": 114,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -319,7 +319,7 @@
       "2026-05-25": 1205,
       "2026-05-26": 982,
       "2026-05-27": 1417,
-      "2026-05-28": 828
+      "2026-05-28": 952
     }
   },
   {
@@ -401,10 +401,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "73.73%",
-    "uptimeDay": "74.36%",
+    "uptime": "73.74%",
+    "uptimeDay": "82.95%",
     "uptimeWeek": "85.67%",
-    "uptimeMonth": "72.26%",
+    "uptimeMonth": "72.54%",
     "uptimeYear": "21.93%",
     "time": 566,
     "timeDay": 156,
@@ -726,16 +726,16 @@
     "url": "http://newsdex.chpl.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
-    "status": "down",
-    "uptime": "61.53%",
-    "uptimeDay": "10.87%",
-    "uptimeWeek": "17.64%",
+    "status": "up",
+    "uptime": "61.52%",
+    "uptimeDay": "10.90%",
+    "uptimeWeek": "16.61%",
     "uptimeMonth": "16.26%",
     "uptimeYear": "1.24%",
-    "time": 251,
-    "timeDay": 153,
-    "timeWeek": 114,
-    "timeMonth": 128,
+    "time": 250,
+    "timeDay": 152,
+    "timeWeek": 115,
+    "timeMonth": 129,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2026-05-06": 1302,
@@ -1102,7 +1102,7 @@
       "2026-05-25": 1296,
       "2026-05-26": 1326,
       "2026-05-27": 1028,
-      "2026-05-28": 1001
+      "2026-05-28": 1124
     }
   }
 ]
