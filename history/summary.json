@@ -97,17 +97,17 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "86.09%",
-    "uptimeDay": "16.34%",
-    "uptimeWeek": "24.27%",
-    "uptimeMonth": "19.95%",
+    "uptimeDay": "16.91%",
+    "uptimeWeek": "24.80%",
+    "uptimeMonth": "20.07%",
     "uptimeYear": "44.16%",
-    "time": 251,
+    "time": 250,
     "timeDay": 88,
-    "timeWeek": 106,
+    "timeWeek": 104,
     "timeMonth": 111,
-    "timeYear": 222,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2025-06-13": 24,
       "2025-07-21": 23,
@@ -322,7 +322,7 @@
       "2026-05-28": 1025,
       "2026-05-29": 1151,
       "2026-05-30": 665,
-      "2026-05-31": 1007
+      "2026-05-31": 1008
     }
   },
   {
@@ -406,7 +406,7 @@
     "uptime": "73.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.67%",
-    "uptimeMonth": "78.92%",
+    "uptimeMonth": "79.05%",
     "uptimeYear": "22.12%",
     "time": 565,
     "timeDay": 284,
@@ -725,17 +725,17 @@
     "url": "http://newsdex.chpl.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
-    "status": "up",
+    "status": "down",
     "uptime": "61.46%",
-    "uptimeDay": "19.57%",
-    "uptimeWeek": "24.48%",
-    "uptimeMonth": "16.45%",
-    "uptimeYear": "1.53%",
-    "time": 238,
-    "timeDay": 103,
-    "timeWeek": 106,
-    "timeMonth": 125,
-    "timeYear": 214,
+    "uptimeDay": "19.53%",
+    "uptimeWeek": "24.89%",
+    "uptimeMonth": "16.57%",
+    "uptimeYear": "1.54%",
+    "time": 236,
+    "timeDay": 93,
+    "timeWeek": 98,
+    "timeMonth": 124,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2026-05-06": 1302,
       "2026-05-05": 1440,
@@ -1101,7 +1101,7 @@
       "2026-05-28": 1197,
       "2026-05-29": 1161,
       "2026-05-30": 462,
-      "2026-05-31": 1018
+      "2026-05-31": 1019
     }
   }
 ]
