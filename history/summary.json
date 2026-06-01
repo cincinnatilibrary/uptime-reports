@@ -98,13 +98,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "86.07%",
-    "uptimeDay": "16.91%",
+    "uptime": "86.05%",
+    "uptimeDay": "9.22%",
     "uptimeWeek": "24.18%",
     "uptimeMonth": "20.07%",
-    "uptimeYear": "44.08%",
+    "uptimeYear": "43.98%",
     "time": 249,
-    "timeDay": 89,
+    "timeDay": 93,
     "timeWeek": 108,
     "timeMonth": 109,
     "timeYear": 220,
@@ -323,7 +323,7 @@
       "2026-05-29": 1151,
       "2026-05-30": 665,
       "2026-05-31": 1197,
-      "2026-06-01": 252
+      "2026-06-01": 750
     }
   },
   {
@@ -404,16 +404,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "73.81%",
+    "uptime": "73.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.67%",
-    "uptimeMonth": "80.05%",
-    "uptimeYear": "22.18%",
+    "uptimeWeek": "88.33%",
+    "uptimeMonth": "81.19%",
+    "uptimeYear": "22.22%",
     "time": 564,
     "timeDay": 134,
-    "timeWeek": 1683,
+    "timeWeek": 1853,
     "timeMonth": 584,
-    "timeYear": 413,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2025-06-05": 18,
       "2025-06-08": 19,
@@ -725,16 +725,16 @@
     "url": "http://newsdex.chpl.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
-    "status": "down",
-    "uptime": "61.44%",
-    "uptimeDay": "16.14%",
-    "uptimeWeek": "23.84%",
+    "status": "up",
+    "uptime": "61.42%",
+    "uptimeDay": "8.49%",
+    "uptimeWeek": "23.85%",
     "uptimeMonth": "16.57%",
     "uptimeYear": "1.54%",
-    "time": 236,
-    "timeDay": 102,
-    "timeWeek": 105,
-    "timeMonth": 122,
+    "time": 235,
+    "timeDay": 147,
+    "timeWeek": 112,
+    "timeMonth": 123,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2026-05-06": 1302,
@@ -1101,7 +1101,7 @@
       "2026-05-29": 1161,
       "2026-05-30": 462,
       "2026-05-31": 1208,
-      "2026-06-01": 252
+      "2026-06-01": 750
     }
   }
 ]
