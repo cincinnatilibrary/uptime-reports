@@ -67,10 +67,10 @@
     "slug": "chpl-encore-discovery-layer",
     "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "89.63%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.87%",
     "time": 1436,
     "timeDay": 798,
     "timeWeek": 1199,
@@ -90,7 +90,7 @@
       "2025-12-30": 18,
       "2026-04-01": 49,
       "2026-04-19": 67,
-      "2026-06-03": 1
+      "2026-06-03": 149
     }
   },
   {
@@ -103,7 +103,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "17.20%",
     "uptimeMonth": "20.07%",
-    "uptimeYear": "43.56%",
+    "uptimeYear": "43.53%",
     "time": 248,
     "timeDay": 65,
     "timeWeek": 105,
@@ -324,7 +324,7 @@
       "2026-05-29": 1151,
       "2026-05-30": 665,
       "2026-05-31": 1197,
-      "2026-06-03": 107,
+      "2026-06-03": 255,
       "2026-06-02": 1440,
       "2026-06-01": 1440
     }
@@ -356,11 +356,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.bibliocommons.com.ico",
     "slug": "chpl-discovery-layer-biblio-core",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.85%",
+    "uptimeDay": "89.65%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.88%",
     "time": 1021,
     "timeDay": 768,
     "timeWeek": 2373,
@@ -379,7 +379,7 @@
       "2025-12-29": 23,
       "2026-04-01": 49,
       "2026-04-19": 67,
-      "2026-06-03": 1
+      "2026-06-03": 149
     }
   },
   {
@@ -411,7 +411,7 @@
     "uptime": "73.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.59%",
-    "uptimeMonth": "86.30%",
+    "uptimeMonth": "86.63%",
     "uptimeYear": "22.22%",
     "time": 564,
     "timeDay": 578,
@@ -730,7 +730,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "61.36%",
+    "uptime": "61.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "24.67%",
     "uptimeMonth": "17.38%",
@@ -1104,7 +1104,7 @@
       "2026-05-30": 462,
       "2026-05-31": 1208,
       "2026-06-01": 1087,
-      "2026-06-03": 107,
+      "2026-06-03": 255,
       "2026-06-02": 1440
     }
   }
