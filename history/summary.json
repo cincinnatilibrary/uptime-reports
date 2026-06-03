@@ -65,16 +65,16 @@
     "url": "https://catalog.cincinnatilibrary.org",
     "icon": "https://icons.duckduckgo.com/ip3/catalog.cincinnatilibrary.org.ico",
     "slug": "chpl-encore-discovery-layer",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "89.63%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.87%",
-    "time": 1436,
-    "timeDay": 798,
-    "timeWeek": 1199,
-    "timeMonth": 1340,
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "80.17%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.85%",
+    "time": 1438,
+    "timeDay": 1050,
+    "timeWeek": 1238,
+    "timeMonth": 1347,
     "timeYear": 1542,
     "dailyMinutesDown": {
       "2025-07-13": 18,
@@ -90,7 +90,7 @@
       "2025-12-30": 18,
       "2026-04-01": 49,
       "2026-04-19": 67,
-      "2026-06-03": 149
+      "2026-06-03": 286
     }
   },
   {
@@ -99,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "85.96%",
+    "uptime": "85.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "17.20%",
     "uptimeMonth": "20.07%",
-    "uptimeYear": "43.53%",
+    "uptimeYear": "43.50%",
     "time": 248,
     "timeDay": 65,
     "timeWeek": 105,
@@ -324,7 +324,7 @@
       "2026-05-29": 1151,
       "2026-05-30": 665,
       "2026-05-31": 1197,
-      "2026-06-03": 255,
+      "2026-06-03": 392,
       "2026-06-02": 1440,
       "2026-06-01": 1440
     }
@@ -355,16 +355,16 @@
     "url": "https://cincinnatilibrary.bibliocommons.com",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.bibliocommons.com.ico",
     "slug": "chpl-discovery-layer-biblio-core",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "89.65%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.88%",
-    "time": 1021,
-    "timeDay": 768,
-    "timeWeek": 2373,
-    "timeMonth": 2129,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "80.19%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.85%",
+    "time": 1023,
+    "timeDay": 932,
+    "timeWeek": 2249,
+    "timeMonth": 2103,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2025-07-13": 16,
@@ -379,7 +379,7 @@
       "2025-12-29": 23,
       "2026-04-01": 49,
       "2026-04-19": 67,
-      "2026-06-03": 149
+      "2026-06-03": 285
     }
   },
   {
@@ -411,7 +411,7 @@
     "uptime": "73.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.59%",
-    "uptimeMonth": "86.63%",
+    "uptimeMonth": "86.95%",
     "uptimeYear": "22.22%",
     "time": 564,
     "timeDay": 578,
@@ -1104,7 +1104,7 @@
       "2026-05-30": 462,
       "2026-05-31": 1208,
       "2026-06-01": 1087,
-      "2026-06-03": 255,
+      "2026-06-03": 392,
       "2026-06-02": 1440
     }
   }
