@@ -68,12 +68,12 @@
     "status": "up",
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.04%",
+    "uptimeWeek": "97.28%",
     "uptimeMonth": "97.79%",
     "uptimeYear": "99.72%",
     "time": 1442,
     "timeDay": 935,
-    "timeWeek": 1098,
+    "timeWeek": 1080,
     "timeMonth": 1189,
     "timeYear": 1506,
     "dailyMinutesDown": {
@@ -100,15 +100,15 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "down",
+    "status": "up",
     "uptime": "85.45%",
-    "uptimeDay": "15.12%",
+    "uptimeDay": "15.15%",
     "uptimeWeek": "2.90%",
-    "uptimeMonth": "18.51%",
-    "uptimeYear": "41.14%",
-    "time": 241,
-    "timeDay": 89,
-    "timeWeek": 63,
+    "uptimeMonth": "18.41%",
+    "uptimeYear": "41.11%",
+    "time": 240,
+    "timeDay": 98,
+    "timeWeek": 68,
     "timeMonth": 101,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -337,7 +337,7 @@
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
-      "2026-06-12": 246
+      "2026-06-12": 406
     }
   },
   {
@@ -369,12 +369,12 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.05%",
+    "uptimeWeek": "97.29%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "99.72%",
     "time": 1031,
     "timeDay": 699,
-    "timeWeek": 814,
+    "timeWeek": 793,
     "timeMonth": 1725,
     "timeYear": 1143,
     "dailyMinutesDown": {
@@ -740,13 +740,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "60.89%",
-    "uptimeDay": "19.40%",
+    "uptime": "60.88%",
+    "uptimeDay": "17.56%",
     "uptimeWeek": "3.17%",
-    "uptimeMonth": "15.48%",
+    "uptimeMonth": "15.38%",
     "uptimeYear": "1.67%",
     "time": 224,
-    "timeDay": 92,
+    "timeDay": 72,
     "timeWeek": 100,
     "timeMonth": 117,
     "timeYear": 209,
@@ -1115,7 +1115,7 @@
       "2026-06-02": 1440,
       "2026-06-11": 1161,
       "2026-06-10": 1422,
-      "2026-06-12": 246
+      "2026-06-12": 407
     }
   }
 ]
