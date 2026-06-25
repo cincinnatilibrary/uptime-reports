@@ -100,16 +100,16 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "84.79%",
-    "uptimeDay": "9.72%",
-    "uptimeWeek": "8.61%",
-    "uptimeMonth": "8.61%",
+    "uptimeDay": "32.80%",
+    "uptimeWeek": "11.91%",
+    "uptimeMonth": "9.37%",
     "uptimeYear": "37.90%",
     "time": 248,
-    "timeDay": 159,
-    "timeWeek": 90,
-    "timeMonth": 89,
+    "timeDay": 130,
+    "timeWeek": 86,
+    "timeMonth": 88,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2025-07-21": 23,
@@ -349,7 +349,7 @@
       "2026-06-16": 1440,
       "2026-06-23": 1316,
       "2026-06-24": 1301,
-      "2026-06-25": 346
+      "2026-06-25": 347
     }
   },
   {
@@ -436,15 +436,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "74.36%",
+    "uptime": "74.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.70%",
+    "uptimeMonth": "97.31%",
     "uptimeYear": "22.29%",
     "time": 521,
     "timeDay": 40,
     "timeWeek": 192,
-    "timeMonth": 665,
+    "timeMonth": 680,
     "timeYear": 419,
     "dailyMinutesDown": {
       "2025-06-26": 25,
@@ -751,14 +751,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "60.30%",
-    "uptimeDay": "25.50%",
-    "uptimeWeek": "8.55%",
+    "uptime": "60.29%",
+    "uptimeDay": "14.79%",
+    "uptimeWeek": "7.82%",
     "uptimeMonth": "9.01%",
     "uptimeYear": "1.99%",
     "time": 207,
-    "timeDay": 142,
-    "timeWeek": 92,
+    "timeDay": 146,
+    "timeWeek": 96,
     "timeMonth": 101,
     "timeYear": 201,
     "dailyMinutesDown": {
@@ -1126,7 +1126,7 @@
       "2026-06-19": 1440,
       "2026-06-23": 1135,
       "2026-06-24": 1073,
-      "2026-06-25": 347
+      "2026-06-25": 680
     }
   }
 ]
