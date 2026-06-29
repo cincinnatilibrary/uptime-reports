@@ -103,12 +103,12 @@
     "status": "down",
     "uptime": "84.61%",
     "uptimeDay": "10.36%",
-    "uptimeWeek": "17.70%",
+    "uptimeWeek": "16.55%",
     "uptimeMonth": "8.12%",
-    "uptimeYear": "37.03%",
+    "uptimeYear": "37.00%",
     "time": 242,
     "timeDay": 153,
-    "timeWeek": 126,
+    "timeWeek": 123,
     "timeMonth": 92,
     "timeYear": 195,
     "dailyMinutesDown": {
@@ -353,7 +353,7 @@
       "2026-06-26": 1335,
       "2026-06-27": 1309,
       "2026-06-28": 1371,
-      "2026-06-29": 12
+      "2026-06-29": 162
     }
   },
   {
@@ -754,10 +754,10 @@
     "slug": "newsdex",
     "status": "up",
     "uptime": "60.12%",
-    "uptimeDay": "4.52%",
-    "uptimeWeek": "11.05%",
-    "uptimeMonth": "7.67%",
-    "uptimeYear": "2.05%",
+    "uptimeDay": "14.93%",
+    "uptimeWeek": "12.54%",
+    "uptimeMonth": "8.01%",
+    "uptimeYear": "2.08%",
     "time": 247,
     "timeDay": 105,
     "timeWeek": 98,
