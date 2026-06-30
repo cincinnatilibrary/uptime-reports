@@ -102,12 +102,12 @@
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "up",
     "uptime": "84.56%",
-    "uptimeDay": "9.23%",
-    "uptimeWeek": "12.29%",
-    "uptimeMonth": "7.59%",
+    "uptimeDay": "19.04%",
+    "uptimeWeek": "14.43%",
+    "uptimeMonth": "8.09%",
     "uptimeYear": "36.78%",
     "time": 241,
-    "timeDay": 185,
+    "timeDay": 214,
     "timeWeek": 146,
     "timeMonth": 98,
     "timeYear": 195,
@@ -353,8 +353,7 @@
       "2026-06-26": 1335,
       "2026-06-27": 1309,
       "2026-06-28": 1371,
-      "2026-06-29": 1311,
-      "2026-06-30": 8
+      "2026-06-29": 1311
     }
   },
   {
@@ -755,12 +754,12 @@
     "slug": "newsdex",
     "status": "down",
     "uptime": "60.09%",
-    "uptimeDay": "30.38%",
+    "uptimeDay": "21.13%",
     "uptimeWeek": "14.23%",
     "uptimeMonth": "8.00%",
     "uptimeYear": "2.14%",
     "time": 245,
-    "timeDay": 115,
+    "timeDay": 114,
     "timeWeek": 104,
     "timeMonth": 98,
     "timeYear": 197,
@@ -1129,7 +1128,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-29": 1002,
-      "2026-06-30": 18
+      "2026-06-30": 226
     }
   }
 ]
