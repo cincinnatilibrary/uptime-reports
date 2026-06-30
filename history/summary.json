@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 400,
-    "timeDay": 225,
-    "timeWeek": 396,
-    "timeMonth": 345,
+    "timeDay": 252,
+    "timeWeek": 407,
+    "timeMonth": 346,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2025-07-21": 24,
@@ -41,8 +41,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 92,
-    "timeDay": 172,
-    "timeWeek": 210,
+    "timeDay": 186,
+    "timeWeek": 198,
     "timeMonth": 216,
     "timeYear": 109,
     "dailyMinutesDown": {
@@ -70,9 +70,9 @@
     "uptimeMonth": "97.11%",
     "uptimeYear": "99.66%",
     "time": 1462,
-    "timeDay": 2095,
-    "timeWeek": 1864,
-    "timeMonth": 1271,
+    "timeDay": 2906,
+    "timeWeek": 2008,
+    "timeMonth": 1256,
     "timeYear": 1514,
     "dailyMinutesDown": {
       "2025-07-13": 18,
@@ -100,17 +100,17 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "down",
+    "status": "up",
     "uptime": "84.56%",
-    "uptimeDay": "9.59%",
-    "uptimeWeek": "12.28%",
+    "uptimeDay": "9.23%",
+    "uptimeWeek": "12.29%",
     "uptimeMonth": "7.59%",
     "uptimeYear": "36.78%",
     "time": 241,
-    "timeDay": 194,
-    "timeWeek": 136,
-    "timeMonth": 95,
-    "timeYear": 194,
+    "timeDay": 185,
+    "timeWeek": 146,
+    "timeMonth": 98,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2025-07-21": 23,
       "2025-10-26": 144,
@@ -354,7 +354,7 @@
       "2026-06-27": 1309,
       "2026-06-28": 1371,
       "2026-06-29": 1311,
-      "2026-06-30": 0
+      "2026-06-30": 8
     }
   },
   {
@@ -369,9 +369,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.95%",
     "time": 900,
-    "timeDay": 743,
-    "timeWeek": 1347,
-    "timeMonth": 1008,
+    "timeDay": 1125,
+    "timeWeek": 1464,
+    "timeMonth": 1015,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2025-11-12": 30,
@@ -391,9 +391,9 @@
     "uptimeMonth": "97.11%",
     "uptimeYear": "99.67%",
     "time": 1050,
-    "timeDay": 1091,
-    "timeWeek": 1604,
-    "timeMonth": 1163,
+    "timeDay": 1079,
+    "timeWeek": 1376,
+    "timeMonth": 1156,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2025-07-13": 16,
@@ -427,8 +427,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 294,
-    "timeDay": 337,
-    "timeWeek": 252,
+    "timeDay": 358,
+    "timeWeek": 259,
     "timeMonth": 291,
     "timeYear": 301,
     "dailyMinutesDown": {
@@ -447,9 +447,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "22.32%",
     "time": 518,
-    "timeDay": 231,
-    "timeWeek": 161,
-    "timeMonth": 227,
+    "timeDay": 340,
+    "timeWeek": 157,
+    "timeMonth": 225,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-07-04": 54,
@@ -761,8 +761,8 @@
     "uptimeYear": "2.14%",
     "time": 245,
     "timeDay": 115,
-    "timeWeek": 101,
-    "timeMonth": 97,
+    "timeWeek": 104,
+    "timeMonth": 98,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2026-05-06": 1302,
@@ -1129,7 +1129,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-29": 1002,
-      "2026-06-30": 10
+      "2026-06-30": 18
     }
   }
 ]
