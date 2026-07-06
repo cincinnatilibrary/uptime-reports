@@ -71,12 +71,12 @@
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.87%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "99.66%",
     "time": 1466,
     "timeDay": 1463,
     "timeWeek": 1601,
-    "timeMonth": 1383,
+    "timeMonth": 1413,
     "timeYear": 1515,
     "dailyMinutesDown": {
       "2025-07-13": 18,
@@ -104,16 +104,16 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "down",
-    "uptime": "84.33%",
-    "uptimeDay": "64.74%",
+    "status": "up",
+    "uptime": "84.30%",
+    "uptimeDay": "52.85%",
     "uptimeWeek": "23.77%",
     "uptimeMonth": "13.49%",
-    "uptimeYear": "35.53%",
+    "uptimeYear": "35.40%",
     "time": 229,
-    "timeDay": 95,
-    "timeWeek": 119,
-    "timeMonth": 103,
+    "timeDay": 104,
+    "timeWeek": 115,
+    "timeMonth": 104,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-07-21": 23,
@@ -364,7 +364,7 @@
       "2026-07-02": 1345,
       "2026-07-05": 788,
       "2026-07-04": 1440,
-      "2026-07-06": 1
+      "2026-07-06": 679
     }
   },
   {
@@ -398,12 +398,12 @@
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.87%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "99.67%",
     "time": 1059,
     "timeDay": 1453,
     "timeWeek": 1338,
-    "timeMonth": 1063,
+    "timeMonth": 1084,
     "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-07-13": 16,
@@ -451,7 +451,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "74.60%",
+    "uptime": "74.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -763,14 +763,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "59.86%",
-    "uptimeDay": "53.79%",
-    "uptimeWeek": "16.07%",
+    "uptime": "59.83%",
+    "uptimeDay": "52.82%",
+    "uptimeWeek": "14.44%",
     "uptimeMonth": "10.87%",
     "uptimeYear": "2.40%",
     "time": 235,
-    "timeDay": 132,
-    "timeWeek": 113,
+    "timeDay": 84,
+    "timeWeek": 108,
     "timeMonth": 103,
     "timeYear": 194,
     "dailyMinutesDown": {
@@ -1138,7 +1138,7 @@
       "2026-07-03": 1289,
       "2026-07-05": 945,
       "2026-07-04": 1440,
-      "2026-07-06": 0
+      "2026-07-06": 679
     }
   }
 ]
