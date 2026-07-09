@@ -109,7 +109,7 @@
     "uptimeDay": "14.52%",
     "uptimeWeek": "17.82%",
     "uptimeMonth": "14.50%",
-    "uptimeYear": "34.64%",
+    "uptimeYear": "34.62%",
     "time": 226,
     "timeDay": 177,
     "timeWeek": 108,
@@ -367,7 +367,7 @@
       "2026-07-06": 1029,
       "2026-07-08": 1208,
       "2026-07-07": 1440,
-      "2026-07-09": 1021
+      "2026-07-09": 1131
     }
   },
   {
@@ -765,16 +765,16 @@
     "url": "http://newsdex.chpl.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
-    "status": "up",
+    "status": "down",
     "uptime": "59.72%",
-    "uptimeDay": "16.87%",
-    "uptimeWeek": "16.36%",
-    "uptimeMonth": "12.52%",
-    "uptimeYear": "2.54%",
-    "time": 228,
-    "timeDay": 202,
-    "timeWeek": 135,
-    "timeMonth": 114,
+    "uptimeDay": "22.99%",
+    "uptimeWeek": "17.45%",
+    "uptimeMonth": "12.77%",
+    "uptimeYear": "2.56%",
+    "time": 226,
+    "timeDay": 168,
+    "timeWeek": 131,
+    "timeMonth": 113,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2026-05-06": 1302,
@@ -1141,7 +1141,7 @@
       "2026-07-06": 975,
       "2026-07-08": 965,
       "2026-07-07": 1440,
-      "2026-07-09": 1035
+      "2026-07-09": 1036
     }
   }
 ]
