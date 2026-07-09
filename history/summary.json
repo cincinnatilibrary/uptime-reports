@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalog.cincinnatilibrary.org.ico",
     "slug": "chpl-encore-discovery-layer",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
@@ -105,13 +105,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "84.19%",
-    "uptimeDay": "21.63%",
+    "uptime": "84.15%",
+    "uptimeDay": "14.52%",
     "uptimeWeek": "17.82%",
     "uptimeMonth": "14.50%",
-    "uptimeYear": "34.81%",
+    "uptimeYear": "34.64%",
     "time": 226,
-    "timeDay": 162,
+    "timeDay": 177,
     "timeWeek": 108,
     "timeMonth": 108,
     "timeYear": 186,
@@ -367,7 +367,7 @@
       "2026-07-06": 1029,
       "2026-07-08": 1208,
       "2026-07-07": 1440,
-      "2026-07-09": 123
+      "2026-07-09": 1021
     }
   },
   {
@@ -454,7 +454,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "74.67%",
+    "uptime": "74.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -765,16 +765,16 @@
     "url": "http://newsdex.chpl.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
-    "status": "down",
-    "uptime": "59.75%",
-    "uptimeDay": "33.01%",
-    "uptimeWeek": "17.70%",
+    "status": "up",
+    "uptime": "59.72%",
+    "uptimeDay": "16.87%",
+    "uptimeWeek": "16.36%",
     "uptimeMonth": "12.52%",
     "uptimeYear": "2.54%",
     "time": 228,
-    "timeDay": 173,
-    "timeWeek": 129,
-    "timeMonth": 112,
+    "timeDay": 202,
+    "timeWeek": 135,
+    "timeMonth": 114,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2026-05-06": 1302,
@@ -1141,7 +1141,7 @@
       "2026-07-06": 975,
       "2026-07-08": 965,
       "2026-07-07": 1440,
-      "2026-07-09": 138
+      "2026-07-09": 1035
     }
   }
 ]
