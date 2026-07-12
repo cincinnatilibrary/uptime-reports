@@ -105,14 +105,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "84.05%",
-    "uptimeDay": "16.69%",
-    "uptimeWeek": "20.44%",
+    "uptime": "84.03%",
+    "uptimeDay": "12.22%",
+    "uptimeWeek": "17.90%",
     "uptimeMonth": "15.11%",
-    "uptimeYear": "34.02%",
+    "uptimeYear": "33.96%",
     "time": 219,
-    "timeDay": 134,
-    "timeWeek": 104,
+    "timeDay": 147,
+    "timeWeek": 106,
     "timeMonth": 109,
     "timeYear": 182,
     "dailyMinutesDown": {
@@ -370,7 +370,7 @@
       "2026-07-09": 1355,
       "2026-07-10": 1315,
       "2026-07-11": 1017,
-      "2026-07-12": 580
+      "2026-07-12": 912
     }
   },
   {
@@ -457,7 +457,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "74.74%",
+    "uptime": "74.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -466,7 +466,7 @@
     "timeDay": 409,
     "timeWeek": 202,
     "timeMonth": 199,
-    "timeYear": 411,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2025-07-13": 46,
       "2025-07-14": 29,
@@ -768,16 +768,16 @@
     "url": "http://newsdex.chpl.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
-    "status": "down",
-    "uptime": "59.59%",
-    "uptimeDay": "10.67%",
-    "uptimeWeek": "18.20%",
+    "status": "up",
+    "uptime": "59.58%",
+    "uptimeDay": "10.70%",
+    "uptimeWeek": "16.79%",
     "uptimeMonth": "12.56%",
     "uptimeYear": "2.60%",
     "time": 218,
-    "timeDay": 136,
+    "timeDay": 146,
     "timeWeek": 133,
-    "timeMonth": 112,
+    "timeMonth": 113,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2026-05-06": 1302,
@@ -1144,7 +1144,7 @@
       "2026-07-09": 1192,
       "2026-07-11": 1340,
       "2026-07-10": 1440,
-      "2026-07-12": 702
+      "2026-07-12": 1035
     }
   }
 ]
