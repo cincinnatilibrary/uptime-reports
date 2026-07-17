@@ -71,12 +71,12 @@
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.70%",
     "time": 1481,
     "timeDay": 2221,
     "timeWeek": 1318,
-    "timeMonth": 1598,
+    "timeMonth": 1640,
     "timeYear": 1512,
     "dailyMinutesDown": {
       "2025-08-25": 19,
@@ -102,14 +102,14 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "down",
-    "uptime": "96.32%",
-    "uptimeDay": "23.01%",
-    "uptimeWeek": "20.65%",
+    "status": "up",
+    "uptime": "96.31%",
+    "uptimeDay": "23.04%",
+    "uptimeWeek": "19.90%",
     "uptimeMonth": "16.72%",
-    "uptimeYear": "84.73%",
+    "uptimeYear": "84.70%",
     "time": 210,
-    "timeDay": 133,
+    "timeDay": 130,
     "timeWeek": 123,
     "timeMonth": 118,
     "timeYear": 177,
@@ -182,7 +182,7 @@
       "2026-07-14": 1163,
       "2026-07-15": 974,
       "2026-07-16": 1057,
-      "2026-07-17": 492
+      "2026-07-17": 639
     }
   },
   {
@@ -216,12 +216,12 @@
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.70%",
     "time": 1065,
     "timeDay": 991,
     "timeWeek": 881,
-    "timeMonth": 1181,
+    "timeMonth": 1212,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2025-08-25": 19,
@@ -576,12 +576,12 @@
     "slug": "newsdex",
     "status": "down",
     "uptime": "59.42%",
-    "uptimeDay": "32.79%",
+    "uptimeDay": "26.43%",
     "uptimeWeek": "14.75%",
     "uptimeMonth": "14.19%",
     "uptimeYear": "2.85%",
     "time": 206,
-    "timeDay": 159,
+    "timeDay": 150,
     "timeWeek": 148,
     "timeMonth": 124,
     "timeYear": 189,
@@ -950,7 +950,7 @@
       "2026-07-15": 1262,
       "2026-07-14": 1440,
       "2026-07-16": 985,
-      "2026-07-17": 327
+      "2026-07-17": 474
     }
   }
 ]
