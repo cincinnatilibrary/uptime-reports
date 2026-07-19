@@ -1,7 +1,7 @@
 url: http://newsdex.chpl.org/
-status: up
-code: 200
-responseTime: 119
-lastUpdated: 2026-07-19T10:43:15.061Z
+status: down
+code: 403
+responseTime: 25
+lastUpdated: 2026-07-19T11:42:24.575Z
 startTime: 2023-05-02T17:42:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
