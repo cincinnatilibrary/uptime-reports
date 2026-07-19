@@ -67,17 +67,17 @@
     "url": "https://catalog.cincinnatilibrary.org",
     "icon": "https://icons.duckduckgo.com/ip3/catalog.cincinnatilibrary.org.ico",
     "slug": "chpl-encore-discovery-layer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 1481,
-    "timeDay": 1177,
-    "timeWeek": 1242,
-    "timeMonth": 1626,
-    "timeYear": 1512,
+    "time": 1479,
+    "timeDay": 706,
+    "timeWeek": 1116,
+    "timeMonth": 1581,
+    "timeYear": 1509,
     "dailyMinutesDown": {
       "2025-08-25": 19,
       "2025-08-28": 16,
@@ -94,7 +94,8 @@
       "2026-06-05": 255,
       "2026-06-06": 274,
       "2026-06-14": 96,
-      "2026-06-17": 204
+      "2026-06-17": 204,
+      "2026-07-19": 1
     }
   },
   {
@@ -103,14 +104,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "96.29%",
+    "uptime": "96.26%",
     "uptimeDay": "3.89%",
-    "uptimeWeek": "16.76%",
+    "uptimeWeek": "15.55%",
     "uptimeMonth": "17.06%",
-    "uptimeYear": "84.57%",
+    "uptimeYear": "84.47%",
     "time": 208,
     "timeDay": 102,
-    "timeWeek": 130,
+    "timeWeek": 132,
     "timeMonth": 118,
     "timeYear": 176,
     "dailyMinutesDown": {
@@ -182,7 +183,7 @@
       "2026-07-16": 1057,
       "2026-07-17": 1221,
       "2026-07-18": 1384,
-      "2026-07-19": 168
+      "2026-07-19": 644
     }
   },
   {
@@ -212,17 +213,17 @@
     "url": "https://cincinnatilibrary.bibliocommons.com",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.bibliocommons.com.ico",
     "slug": "chpl-discovery-layer-biblio-core",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 1067,
-    "timeDay": 505,
-    "timeWeek": 889,
-    "timeMonth": 1219,
-    "timeYear": 1136,
+    "timeDay": 349,
+    "timeWeek": 802,
+    "timeMonth": 1186,
+    "timeYear": 1134,
     "dailyMinutesDown": {
       "2025-08-25": 19,
       "2025-08-28": 16,
@@ -238,7 +239,8 @@
       "2026-06-05": 255,
       "2026-06-06": 273,
       "2026-06-14": 96,
-      "2026-06-17": 204
+      "2026-06-17": 204,
+      "2026-07-19": 0
     }
   },
   {
@@ -267,7 +269,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "74.88%",
+    "uptime": "74.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -276,7 +278,7 @@
     "timeDay": 140,
     "timeWeek": 199,
     "timeMonth": 183,
-    "timeYear": 255,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2025-07-25": 91,
       "2025-07-28": 698,
@@ -573,17 +575,17 @@
     "url": "http://newsdex.chpl.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
-    "status": "down",
-    "uptime": "94.69%",
-    "uptimeDay": "23.45%",
+    "status": "up",
+    "uptime": "94.66%",
+    "uptimeDay": "15.54%",
     "uptimeWeek": "17.71%",
     "uptimeMonth": "14.42%",
-    "uptimeYear": "82.92%",
+    "uptimeYear": "82.83%",
     "time": 200,
-    "timeDay": 151,
-    "timeWeek": 155,
+    "timeDay": 116,
+    "timeWeek": 154,
     "timeMonth": 127,
-    "timeYear": 188,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2026-05-08": 1224,
       "2026-05-07": 1035,
@@ -658,7 +660,7 @@
       "2026-07-16": 985,
       "2026-07-17": 1085,
       "2026-07-18": 1102,
-      "2026-07-19": 168
+      "2026-07-19": 643
     }
   }
 ]
