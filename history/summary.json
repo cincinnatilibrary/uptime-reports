@@ -69,10 +69,10 @@
     "slug": "chpl-encore-discovery-layer",
     "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.69%",
     "time": 1479,
     "timeDay": 706,
     "timeWeek": 1116,
@@ -95,7 +95,7 @@
       "2026-06-06": 274,
       "2026-06-14": 96,
       "2026-06-17": 204,
-      "2026-07-19": 1
+      "2026-07-19": 60
     }
   },
   {
@@ -106,12 +106,12 @@
     "status": "down",
     "uptime": "96.26%",
     "uptimeDay": "3.89%",
-    "uptimeWeek": "15.55%",
+    "uptimeWeek": "15.53%",
     "uptimeMonth": "17.06%",
-    "uptimeYear": "84.47%",
+    "uptimeYear": "84.46%",
     "time": 208,
     "timeDay": 102,
-    "timeWeek": 132,
+    "timeWeek": 122,
     "timeMonth": 118,
     "timeYear": 176,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
       "2026-07-16": 1057,
       "2026-07-17": 1221,
       "2026-07-18": 1384,
-      "2026-07-19": 644
+      "2026-07-19": 703
     }
   },
   {
@@ -215,10 +215,10 @@
     "slug": "chpl-discovery-layer-biblio-core",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.69%",
     "time": 1067,
     "timeDay": 349,
     "timeWeek": 802,
@@ -240,7 +240,7 @@
       "2026-06-06": 273,
       "2026-06-14": 96,
       "2026-06-17": 204,
-      "2026-07-19": 0
+      "2026-07-19": 60
     }
   },
   {
@@ -575,20 +575,19 @@
     "url": "http://newsdex.chpl.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
-    "status": "up",
-    "uptime": "94.66%",
-    "uptimeDay": "15.54%",
-    "uptimeWeek": "17.71%",
-    "uptimeMonth": "14.42%",
-    "uptimeYear": "82.83%",
-    "time": 200,
-    "timeDay": 116,
-    "timeWeek": 154,
-    "timeMonth": 127,
+    "status": "down",
+    "uptime": "94.74%",
+    "uptimeDay": "19.62%",
+    "uptimeWeek": "18.28%",
+    "uptimeMonth": "14.56%",
+    "uptimeYear": "83.09%",
+    "time": 199,
+    "timeDay": 106,
+    "timeWeek": 146,
+    "timeMonth": 126,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2026-05-08": 1224,
-      "2026-05-07": 1035,
+      "2026-05-08": 876,
       "2026-05-09": 1279,
       "2026-05-10": 1136,
       "2026-05-12": 1032,
