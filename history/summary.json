@@ -101,17 +101,17 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "down",
-    "uptime": "96.28%",
-    "uptimeDay": "28.45%",
-    "uptimeWeek": "17.23%",
+    "status": "up",
+    "uptime": "96.25%",
+    "uptimeDay": "9.61%",
+    "uptimeWeek": "17.24%",
     "uptimeMonth": "18.55%",
-    "uptimeYear": "84.50%",
+    "uptimeYear": "84.37%",
     "time": 221,
-    "timeDay": 146,
-    "timeWeek": 129,
-    "timeMonth": 124,
-    "timeYear": 172,
+    "timeDay": 232,
+    "timeWeek": 137,
+    "timeMonth": 126,
+    "timeYear": 173,
     "dailyMinutesDown": {
       "2026-05-16": 445,
       "2026-05-17": 1218,
@@ -181,7 +181,7 @@
       "2026-07-20": 1295,
       "2026-07-21": 1151,
       "2026-07-22": 920,
-      "2026-07-23": 267
+      "2026-07-23": 930
     }
   },
   {
@@ -267,7 +267,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "74.97%",
+    "uptime": "74.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -574,15 +574,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "94.82%",
-    "uptimeDay": "19.03%",
-    "uptimeWeek": "20.51%",
-    "uptimeMonth": "16.52%",
-    "uptimeYear": "83.30%",
+    "uptime": "94.79%",
+    "uptimeDay": "1.86%",
+    "uptimeWeek": "17.71%",
+    "uptimeMonth": "16.24%",
+    "uptimeYear": "83.17%",
     "time": 194,
-    "timeDay": 120,
-    "timeWeek": 145,
-    "timeMonth": 133,
+    "timeDay": 74,
+    "timeWeek": 146,
+    "timeMonth": 134,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2026-05-12": 227,
@@ -657,7 +657,7 @@
       "2026-07-21": 1136,
       "2026-07-20": 1440,
       "2026-07-22": 919,
-      "2026-07-23": 405
+      "2026-07-23": 1069
     }
   }
 ]
