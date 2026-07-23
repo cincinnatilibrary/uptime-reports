@@ -101,20 +101,20 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "up",
-    "uptime": "96.25%",
-    "uptimeDay": "14.00%",
-    "uptimeWeek": "17.48%",
-    "uptimeMonth": "18.41%",
-    "uptimeYear": "84.37%",
-    "time": 221,
-    "timeDay": 190,
-    "timeWeek": 131,
-    "timeMonth": 127,
-    "timeYear": 173,
+    "status": "down",
+    "uptime": "96.26%",
+    "uptimeDay": "18.12%",
+    "uptimeWeek": "17.38%",
+    "uptimeMonth": "18.55%",
+    "uptimeYear": "84.41%",
+    "time": 220,
+    "timeDay": 171,
+    "timeWeek": 129,
+    "timeMonth": 126,
+    "timeYear": 172,
     "dailyMinutesDown": {
-      "2026-05-16": 277,
       "2026-05-17": 1218,
+      "2026-05-16": 69,
       "2026-05-18": 305,
       "2026-05-19": 737,
       "2026-05-20": 1265,
@@ -181,7 +181,7 @@
       "2026-07-20": 1295,
       "2026-07-21": 1151,
       "2026-07-22": 920,
-      "2026-07-23": 1073
+      "2026-07-23": 1083
     }
   },
   {
@@ -266,13 +266,13 @@
     "url": "https://collection-analysis.cincy.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
-    "status": "up",
-    "uptime": "74.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "75.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "22.53%",
-    "time": 403,
+    "time": 404,
     "timeDay": 147,
     "timeWeek": 170,
     "timeMonth": 180,
@@ -565,7 +565,8 @@
       "2026-05-25": 366,
       "2026-05-26": 533,
       "2026-05-27": 459,
-      "2026-05-28": 86
+      "2026-05-28": 86,
+      "2026-07-23": 1
     }
   },
   {
@@ -574,11 +575,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "94.78%",
+    "uptime": "94.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "17.71%",
     "uptimeMonth": "15.96%",
-    "uptimeYear": "83.13%",
+    "uptimeYear": "83.12%",
     "time": 194,
     "timeDay": 76,
     "timeWeek": 146,
@@ -657,7 +658,7 @@
       "2026-07-21": 1136,
       "2026-07-20": 1440,
       "2026-07-22": 919,
-      "2026-07-23": 1275
+      "2026-07-23": 1345
     }
   }
 ]
