@@ -107,7 +107,7 @@
     "uptimeDay": "20.61%",
     "uptimeWeek": "14.11%",
     "uptimeMonth": "17.28%",
-    "uptimeYear": "83.66%",
+    "uptimeYear": "83.64%",
     "time": 216,
     "timeDay": 162,
     "timeWeek": 147,
@@ -184,7 +184,7 @@
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-27": 1200,
-      "2026-07-28": 6
+      "2026-07-28": 98
     }
   },
   {
@@ -578,9 +578,9 @@
     "slug": "newsdex",
     "status": "up",
     "uptime": "94.44%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "8.20%",
-    "uptimeMonth": "14.52%",
+    "uptimeDay": "6.42%",
+    "uptimeWeek": "9.12%",
+    "uptimeMonth": "14.73%",
     "uptimeYear": "82.00%",
     "time": 193,
     "timeDay": 79,
