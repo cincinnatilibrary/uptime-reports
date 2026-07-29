@@ -104,13 +104,13 @@
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
     "uptime": "96.14%",
-    "uptimeDay": "39.23%",
-    "uptimeWeek": "14.15%",
+    "uptimeDay": "37.46%",
+    "uptimeWeek": "13.23%",
     "uptimeMonth": "18.23%",
-    "uptimeYear": "83.87%",
+    "uptimeYear": "83.84%",
     "time": 214,
-    "timeDay": 143,
-    "timeWeek": 140,
+    "timeDay": 139,
+    "timeWeek": 143,
     "timeMonth": 125,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
       "2026-07-24": 1440,
       "2026-07-27": 1200,
       "2026-07-28": 1014,
-      "2026-07-29": 232
+      "2026-07-29": 390
     }
   },
   {
@@ -274,12 +274,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "22.75%",
+    "uptimeYear": "22.78%",
     "time": 400,
     "timeDay": 117,
     "timeWeek": 128,
     "timeMonth": 178,
-    "timeYear": 251,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2026-05-06": 345,
       "2026-05-05": 1440,
@@ -574,19 +574,19 @@
     "url": "http://newsdex.chpl.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
-    "status": "up",
-    "uptime": "94.59%",
-    "uptimeDay": "26.22%",
-    "uptimeWeek": "8.14%",
-    "uptimeMonth": "15.02%",
-    "uptimeYear": "82.46%",
+    "status": "down",
+    "uptime": "94.60%",
+    "uptimeDay": "37.13%",
+    "uptimeWeek": "8.78%",
+    "uptimeMonth": "15.38%",
+    "uptimeYear": "82.47%",
     "time": 192,
-    "timeDay": 123,
-    "timeWeek": 97,
-    "timeMonth": 133,
+    "timeDay": 115,
+    "timeWeek": 96,
+    "timeMonth": 132,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2026-05-15": 83,
+      "2026-05-15": 27,
       "2026-05-16": 1061,
       "2026-05-17": 946,
       "2026-05-18": 611,
@@ -661,7 +661,7 @@
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
-      "2026-07-29": 232
+      "2026-07-29": 233
     }
   }
 ]
