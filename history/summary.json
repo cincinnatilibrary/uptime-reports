@@ -105,12 +105,12 @@
     "status": "down",
     "uptime": "96.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.42%",
+    "uptimeWeek": "9.11%",
     "uptimeMonth": "16.81%",
-    "uptimeYear": "83.43%",
+    "uptimeYear": "83.41%",
     "time": 213,
     "timeDay": 40,
-    "timeWeek": 124,
+    "timeWeek": 127,
     "timeMonth": 124,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -184,7 +184,7 @@
       "2026-07-27": 1200,
       "2026-07-28": 1014,
       "2026-07-29": 1243,
-      "2026-07-30": 1303
+      "2026-07-30": 1419
     }
   },
   {
@@ -202,7 +202,7 @@
     "timeDay": 818,
     "timeWeek": 998,
     "timeMonth": 755,
-    "timeYear": 866,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2025-11-12": 30,
       "2026-04-19": 104,
@@ -224,7 +224,7 @@
     "timeDay": 808,
     "timeWeek": 5952,
     "timeMonth": 2415,
-    "timeYear": 1237,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2025-08-25": 19,
       "2025-08-28": 16,
@@ -260,7 +260,7 @@
     "timeDay": 434,
     "timeWeek": 320,
     "timeMonth": 307,
-    "timeYear": 299,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2026-04-26": 41
     }
@@ -270,17 +270,17 @@
     "url": "https://collection-analysis.cincy.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
-    "status": "down",
+    "status": "up",
     "uptime": "75.14%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "23.19%",
-    "time": 400,
-    "timeDay": 56,
-    "timeWeek": 117,
-    "timeMonth": 168,
-    "timeYear": 248,
+    "time": 478,
+    "timeDay": 17706,
+    "timeWeek": 4529,
+    "timeMonth": 1268,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2026-05-06": 345,
       "2026-05-05": 1440,
@@ -567,7 +567,7 @@
       "2026-05-27": 459,
       "2026-05-28": 86,
       "2026-07-23": 48,
-      "2026-07-30": 1
+      "2026-07-30": 116
     }
   },
   {
@@ -580,12 +580,12 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "8.01%",
     "uptimeMonth": "15.22%",
-    "uptimeYear": "82.08%",
+    "uptimeYear": "82.06%",
     "time": 192,
     "timeDay": 63,
     "timeWeek": 103,
     "timeMonth": 134,
-    "timeYear": 182,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2026-05-16": 1061,
       "2026-05-17": 946,
@@ -662,7 +662,7 @@
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-29": 1006,
-      "2026-07-30": 1303
+      "2026-07-30": 1419
     }
   }
 ]
