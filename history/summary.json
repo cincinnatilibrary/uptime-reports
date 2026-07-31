@@ -104,8 +104,8 @@
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "up",
     "uptime": "96.03%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "9.11%",
+    "uptimeDay": "7.20%",
+    "uptimeWeek": "10.14%",
     "uptimeMonth": "14.68%",
     "uptimeYear": "83.39%",
     "time": 213,
@@ -276,7 +276,7 @@
     "uptimeDay": "91.95%",
     "uptimeWeek": "98.85%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "23.20%",
+    "uptimeYear": "23.22%",
     "time": 477,
     "timeDay": 17787,
     "timeWeek": 4540,
@@ -580,7 +580,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "8.01%",
     "uptimeMonth": "11.93%",
-    "uptimeYear": "82.05%",
+    "uptimeYear": "82.03%",
     "time": 192,
     "timeDay": 89,
     "timeWeek": 106,
@@ -662,7 +662,7 @@
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-29": 1006,
-      "2026-07-31": 69,
+      "2026-07-31": 173,
       "2026-07-30": 1440
     }
   }
