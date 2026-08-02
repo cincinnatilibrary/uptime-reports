@@ -1,7 +1,7 @@
 url: https://catalog.cincinnatilibrary.org
-status: down
-code: 500
-responseTime: 11609
-lastUpdated: 2026-08-02T10:18:46.307Z
+status: up
+code: 200
+responseTime: 1868
+lastUpdated: 2026-08-02T11:35:43.344Z
 startTime: 2022-05-25T11:47:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
