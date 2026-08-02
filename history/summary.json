@@ -65,17 +65,17 @@
     "url": "https://catalog.cincinnatilibrary.org",
     "icon": "https://icons.duckduckgo.com/ip3/catalog.cincinnatilibrary.org.ico",
     "slug": "chpl-encore-discovery-layer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "89.13%",
-    "uptimeWeek": "98.45%",
+    "uptimeDay": "89.09%",
+    "uptimeWeek": "98.44%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.64%",
-    "time": 1515,
-    "timeDay": 4369,
-    "timeWeek": 2867,
-    "timeMonth": 1804,
-    "timeYear": 1543,
+    "time": 1526,
+    "timeDay": 4777,
+    "timeWeek": 3196,
+    "timeMonth": 1929,
+    "timeYear": 1554,
     "dailyMinutesDown": {
       "2025-08-25": 19,
       "2025-08-28": 16,
@@ -95,7 +95,7 @@
       "2026-06-17": 204,
       "2026-07-19": 112,
       "2026-07-26": 67,
-      "2026-08-02": 157
+      "2026-08-02": 158
     }
   },
   {
@@ -104,11 +104,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "95.89%",
+    "uptime": "95.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "10.59%",
     "uptimeMonth": "13.03%",
-    "uptimeYear": "82.74%",
+    "uptimeYear": "82.73%",
     "time": 212,
     "timeDay": 17,
     "timeWeek": 136,
@@ -187,7 +187,7 @@
       "2026-07-29": 1243,
       "2026-07-31": 1235,
       "2026-07-30": 1440,
-      "2026-08-02": 1172,
+      "2026-08-02": 1230,
       "2026-08-01": 1440
     }
   },
@@ -279,7 +279,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.85%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "23.96%",
+    "uptimeYear": "23.97%",
     "time": 476,
     "timeDay": 236,
     "timeWeek": 4560,
@@ -577,11 +577,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "94.32%",
+    "uptime": "94.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "10.11%",
     "uptimeMonth": "11.40%",
-    "uptimeYear": "81.50%",
+    "uptimeYear": "81.49%",
     "time": 192,
     "timeDay": 26,
     "timeWeek": 128,
@@ -666,7 +666,7 @@
       "2026-07-31": 1286,
       "2026-07-30": 1440,
       "2026-08-01": 1383,
-      "2026-08-02": 1172
+      "2026-08-02": 1230
     }
   }
 ]
