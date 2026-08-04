@@ -67,10 +67,10 @@
     "slug": "chpl-encore-discovery-layer",
     "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.63%",
+    "uptimeDay": "88.86%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.60%",
     "time": 1546,
     "timeDay": 6943,
     "timeWeek": 3649,
@@ -96,7 +96,7 @@
       "2026-07-19": 112,
       "2026-07-26": 67,
       "2026-08-02": 211,
-      "2026-08-04": 1
+      "2026-08-04": 160
     }
   },
   {
@@ -105,14 +105,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "95.84%",
+    "uptime": "95.83%",
     "uptimeDay": "12.20%",
-    "uptimeWeek": "9.39%",
+    "uptimeWeek": "9.14%",
     "uptimeMonth": "12.47%",
-    "uptimeYear": "82.53%",
+    "uptimeYear": "82.50%",
     "time": 210,
     "timeDay": 91,
-    "timeWeek": 120,
+    "timeWeek": 117,
     "timeMonth": 123,
     "timeYear": 167,
     "dailyMinutesDown": {
@@ -190,7 +190,7 @@
       "2026-08-03": 1265,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
-      "2026-08-04": 426
+      "2026-08-04": 586
     }
   },
   {
@@ -220,17 +220,17 @@
     "url": "https://cincinnatilibrary.bibliocommons.com",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.bibliocommons.com.ico",
     "slug": "chpl-discovery-layer-biblio-core",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.67%",
-    "time": 1159,
-    "timeDay": 941,
-    "timeWeek": 1972,
-    "timeMonth": 2340,
-    "timeYear": 1240,
+    "time": 1171,
+    "timeDay": 3889,
+    "timeWeek": 2580,
+    "timeMonth": 2465,
+    "timeYear": 1252,
     "dailyMinutesDown": {
       "2025-08-25": 19,
       "2025-08-28": 16,
@@ -248,7 +248,8 @@
       "2026-06-14": 96,
       "2026-06-17": 204,
       "2026-07-19": 112,
-      "2026-07-26": 66
+      "2026-07-26": 66,
+      "2026-08-04": 1
     }
   },
   {
@@ -281,7 +282,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.18%",
     "uptimeMonth": "99.24%",
-    "uptimeYear": "24.33%",
+    "uptimeYear": "24.37%",
     "time": 474,
     "timeDay": 242,
     "timeWeek": 4095,
@@ -582,7 +583,7 @@
     "uptimeDay": "12.20%",
     "uptimeWeek": "9.93%",
     "uptimeMonth": "11.46%",
-    "uptimeYear": "81.14%",
+    "uptimeYear": "81.11%",
     "time": 191,
     "timeDay": 123,
     "timeWeek": 136,
@@ -669,7 +670,7 @@
       "2026-08-01": 1383,
       "2026-08-03": 1264,
       "2026-08-02": 1440,
-      "2026-08-04": 426
+      "2026-08-04": 586
     }
   }
 ]
