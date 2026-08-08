@@ -12,8 +12,8 @@
     "uptimeYear": "99.57%",
     "time": 400,
     "timeDay": 295,
-    "timeWeek": 303,
-    "timeMonth": 340,
+    "timeWeek": 304,
+    "timeMonth": 343,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2025-08-24": 45,
@@ -43,8 +43,8 @@
     "uptimeYear": "99.69%",
     "time": 105,
     "timeDay": 195,
-    "timeWeek": 221,
-    "timeMonth": 242,
+    "timeWeek": 223,
+    "timeMonth": 244,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2025-08-24": 45,
@@ -65,17 +65,17 @@
     "url": "https://catalog.cincinnatilibrary.org",
     "icon": "https://icons.duckduckgo.com/ip3/catalog.cincinnatilibrary.org.ico",
     "slug": "chpl-encore-discovery-layer",
-    "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "93.19%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "99.54%",
-    "time": 1558,
-    "timeDay": 1096,
-    "timeWeek": 3262,
-    "timeMonth": 2198,
-    "timeYear": 1587,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "92.76%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "99.53%",
+    "time": 1563,
+    "timeDay": 1899,
+    "timeWeek": 3406,
+    "timeMonth": 2272,
+    "timeYear": 1593,
     "dailyMinutesDown": {
       "2025-08-25": 19,
       "2025-08-28": 16,
@@ -97,7 +97,8 @@
       "2026-07-26": 67,
       "2026-08-02": 211,
       "2026-08-04": 475,
-      "2026-08-07": 1
+      "2026-08-08": 33,
+      "2026-08-07": 11
     }
   },
   {
@@ -110,10 +111,10 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.86%",
     "uptimeMonth": "10.53%",
-    "uptimeYear": "81.74%",
+    "uptimeYear": "81.73%",
     "time": 207,
     "timeDay": 51,
-    "timeWeek": 94,
+    "timeWeek": 99,
     "timeMonth": 126,
     "timeYear": 165,
     "dailyMinutesDown": {
@@ -192,7 +193,8 @@
       "2026-08-01": 1440,
       "2026-08-04": 1344,
       "2026-08-05": 1324,
-      "2026-08-07": 1430,
+      "2026-08-08": 34,
+      "2026-08-07": 1440,
       "2026-08-06": 1438
     }
   },
@@ -209,8 +211,8 @@
     "uptimeYear": "99.95%",
     "time": 889,
     "timeDay": 1064,
-    "timeWeek": 859,
-    "timeMonth": 801,
+    "timeWeek": 825,
+    "timeMonth": 803,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2025-11-12": 30,
@@ -223,16 +225,16 @@
     "url": "https://cincinnatilibrary.bibliocommons.com",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.bibliocommons.com.ico",
     "slug": "chpl-discovery-layer-biblio-core",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "96.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "99.61%",
-    "time": 1195,
-    "timeDay": 728,
-    "timeWeek": 2431,
-    "timeMonth": 2568,
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "96.44%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "99.60%",
+    "time": 1197,
+    "timeDay": 855,
+    "timeWeek": 2441,
+    "timeMonth": 2577,
     "timeYear": 1281,
     "dailyMinutesDown": {
       "2025-08-25": 19,
@@ -253,7 +255,8 @@
       "2026-07-19": 112,
       "2026-07-26": 66,
       "2026-08-04": 315,
-      "2026-08-07": 1
+      "2026-08-08": 33,
+      "2026-08-07": 10
     }
   },
   {
@@ -269,8 +272,8 @@
     "uptimeYear": "99.99%",
     "time": 299,
     "timeDay": 373,
-    "timeWeek": 364,
-    "timeMonth": 329,
+    "timeWeek": 350,
+    "timeMonth": 326,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2026-04-26": 41
@@ -286,11 +289,11 @@
     "uptimeDay": "97.26%",
     "uptimeWeek": "97.94%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "25.34%",
+    "uptimeYear": "25.35%",
     "time": 463,
     "timeDay": 199,
-    "timeWeek": 188,
-    "timeMonth": 1124,
+    "timeWeek": 195,
+    "timeMonth": 1154,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2026-05-06": 345,
@@ -564,7 +567,6 @@
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
-      "2025-08-08": 1440,
       "2026-05-25": 366,
       "2026-05-26": 533,
       "2026-05-27": 459,
@@ -582,14 +584,14 @@
     "slug": "newsdex",
     "status": "down",
     "uptime": "93.98%",
-    "uptimeDay": "12.37%",
+    "uptimeDay": "11.81%",
     "uptimeWeek": "6.61%",
-    "uptimeMonth": "10.25%",
-    "uptimeYear": "80.33%",
+    "uptimeMonth": "10.18%",
+    "uptimeYear": "80.32%",
     "time": 207,
-    "timeDay": 154,
-    "timeWeek": 133,
-    "timeMonth": 136,
+    "timeDay": 142,
+    "timeWeek": 137,
+    "timeMonth": 135,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2026-05-17": 401,
@@ -674,7 +676,8 @@
       "2026-08-05": 1326,
       "2026-08-04": 1440,
       "2026-08-06": 1300,
-      "2026-08-07": 1252
+      "2026-08-07": 1262,
+      "2026-08-08": 34
     }
   }
 ]
