@@ -111,7 +111,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.86%",
     "uptimeMonth": "10.53%",
-    "uptimeYear": "81.73%",
+    "uptimeYear": "81.72%",
     "time": 207,
     "timeDay": 51,
     "timeWeek": 99,
@@ -193,7 +193,7 @@
       "2026-08-01": 1440,
       "2026-08-04": 1344,
       "2026-08-05": 1324,
-      "2026-08-08": 34,
+      "2026-08-08": 101,
       "2026-08-07": 1440,
       "2026-08-06": 1438
     }
@@ -289,7 +289,7 @@
     "uptimeDay": "97.26%",
     "uptimeWeek": "97.94%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "25.35%",
+    "uptimeYear": "25.36%",
     "time": 463,
     "timeDay": 199,
     "timeWeek": 195,
@@ -584,14 +584,14 @@
     "slug": "newsdex",
     "status": "down",
     "uptime": "93.98%",
-    "uptimeDay": "11.81%",
+    "uptimeDay": "7.13%",
     "uptimeWeek": "6.61%",
-    "uptimeMonth": "10.18%",
-    "uptimeYear": "80.32%",
+    "uptimeMonth": "10.11%",
+    "uptimeYear": "80.31%",
     "time": 207,
     "timeDay": 142,
     "timeWeek": 137,
-    "timeMonth": 135,
+    "timeMonth": 136,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2026-05-17": 401,
@@ -677,7 +677,7 @@
       "2026-08-04": 1440,
       "2026-08-06": 1300,
       "2026-08-07": 1262,
-      "2026-08-08": 34
+      "2026-08-08": 102
     }
   }
 ]
