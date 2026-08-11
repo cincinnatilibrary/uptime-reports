@@ -1,7 +1,7 @@
 url: https://login.research.cincinnatilibrary.org/login
-status: up
-code: 200
-responseTime: 379
-lastUpdated: 2026-08-11T11:53:23.241Z
+status: down
+code: 403
+responseTime: 15
+lastUpdated: 2026-08-11T12:31:37.297Z
 startTime: 2022-05-24T14:33:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
