@@ -110,12 +110,12 @@
     "uptime": "95.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "5.23%",
-    "uptimeMonth": "7.62%",
-    "uptimeYear": "80.29%",
+    "uptimeMonth": "7.55%",
+    "uptimeYear": "80.28%",
     "time": 200,
     "timeDay": 33,
     "timeWeek": 109,
-    "timeMonth": 125,
+    "timeMonth": 126,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2026-05-26": 892,
@@ -198,7 +198,7 @@
       "2026-08-11": 1347,
       "2026-08-12": 1311,
       "2026-08-13": 1275,
-      "2026-08-15": 824,
+      "2026-08-15": 916,
       "2026-08-14": 1440
     }
   },
@@ -289,11 +289,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "75.48%",
+    "uptime": "75.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "27.42%",
+    "uptimeYear": "27.43%",
     "time": 460,
     "timeDay": 244,
     "timeWeek": 137,
@@ -579,16 +579,16 @@
     "url": "http://newsdex.chpl.org/",
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
-    "status": "down",
+    "status": "up",
     "uptime": "93.60%",
-    "uptimeDay": "5.75%",
-    "uptimeWeek": "4.59%",
-    "uptimeMonth": "8.19%",
-    "uptimeYear": "78.95%",
+    "uptimeDay": "5.79%",
+    "uptimeWeek": "4.60%",
+    "uptimeMonth": "8.13%",
+    "uptimeYear": "78.93%",
     "time": 196,
-    "timeDay": 177,
-    "timeWeek": 136,
-    "timeMonth": 136,
+    "timeDay": 194,
+    "timeWeek": 143,
+    "timeMonth": 138,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2026-05-21": 1075,
@@ -678,7 +678,7 @@
       "2026-08-12": 1291,
       "2026-08-13": 1327,
       "2026-08-14": 1386,
-      "2026-08-15": 795
+      "2026-08-15": 887
     }
   }
 ]
