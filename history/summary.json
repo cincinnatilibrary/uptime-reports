@@ -13,7 +13,7 @@
     "time": 398,
     "timeDay": 343,
     "timeWeek": 311,
-    "timeMonth": 336,
+    "timeMonth": 337,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2025-08-24": 45,
@@ -44,7 +44,7 @@
     "time": 107,
     "timeDay": 123,
     "timeWeek": 234,
-    "timeMonth": 248,
+    "timeMonth": 249,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-08-24": 45,
@@ -74,7 +74,7 @@
     "time": 1566,
     "timeDay": 1201,
     "timeWeek": 1295,
-    "timeMonth": 2083,
+    "timeMonth": 2105,
     "timeYear": 1585,
     "dailyMinutesDown": {
       "2025-08-25": 19,
@@ -107,15 +107,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "95.36%",
+    "uptime": "95.35%",
     "uptimeDay": "1.11%",
     "uptimeWeek": "5.39%",
-    "uptimeMonth": "7.44%",
-    "uptimeYear": "80.35%",
+    "uptimeMonth": "7.38%",
+    "uptimeYear": "80.33%",
     "time": 199,
     "timeDay": 136,
     "timeWeek": 117,
-    "timeMonth": 124,
+    "timeMonth": 122,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2026-05-27": 1417,
@@ -198,7 +198,8 @@
       "2026-08-12": 1311,
       "2026-08-13": 1275,
       "2026-08-15": 1424,
-      "2026-08-14": 1440
+      "2026-08-14": 1440,
+      "2026-08-16": 80
     }
   },
   {
@@ -215,7 +216,7 @@
     "time": 883,
     "timeDay": 403,
     "timeWeek": 911,
-    "timeMonth": 828,
+    "timeMonth": 847,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2025-11-12": 30,
@@ -237,7 +238,7 @@
     "time": 1205,
     "timeDay": 1099,
     "timeWeek": 1296,
-    "timeMonth": 2502,
+    "timeMonth": 2537,
     "timeYear": 1284,
     "dailyMinutesDown": {
       "2025-08-25": 19,
@@ -276,7 +277,7 @@
     "time": 299,
     "timeDay": 296,
     "timeWeek": 304,
-    "timeMonth": 326,
+    "timeMonth": 329,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2026-04-26": 41
@@ -292,11 +293,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "27.53%",
+    "uptimeYear": "27.55%",
     "time": 459,
     "timeDay": 254,
     "timeWeek": 165,
-    "timeMonth": 1109,
+    "timeMonth": 1138,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2026-05-06": 345,
@@ -579,14 +580,14 @@
     "slug": "newsdex",
     "status": "up",
     "uptime": "93.68%",
-    "uptimeDay": "4.64%",
-    "uptimeWeek": "4.96%",
-    "uptimeMonth": "8.06%",
+    "uptimeDay": "10.16%",
+    "uptimeWeek": "5.75%",
+    "uptimeMonth": "8.24%",
     "uptimeYear": "79.21%",
     "time": 194,
     "timeDay": 221,
     "timeWeek": 157,
-    "timeMonth": 140,
+    "timeMonth": 141,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2026-05-23": 1231,
