@@ -108,16 +108,16 @@
     "url": "https://login.research.cincinnatilibrary.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
-    "status": "down",
-    "uptime": "95.33%",
-    "uptimeDay": "1.11%",
+    "status": "up",
+    "uptime": "95.32%",
+    "uptimeDay": "1.15%",
     "uptimeWeek": "5.39%",
     "uptimeMonth": "7.03%",
-    "uptimeYear": "80.25%",
+    "uptimeYear": "80.18%",
     "time": 199,
-    "timeDay": 136,
-    "timeWeek": 117,
-    "timeMonth": 124,
+    "timeDay": 202,
+    "timeWeek": 129,
+    "timeMonth": 126,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2026-05-27": 1417,
@@ -201,7 +201,7 @@
       "2026-08-13": 1275,
       "2026-08-15": 1424,
       "2026-08-14": 1440,
-      "2026-08-16": 538
+      "2026-08-16": 891
     }
   },
   {
@@ -291,11 +291,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
     "status": "up",
-    "uptime": "75.50%",
+    "uptime": "75.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "27.64%",
+    "uptimeYear": "27.70%",
     "time": 459,
     "timeDay": 254,
     "timeWeek": 165,
@@ -581,15 +581,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "93.69%",
-    "uptimeDay": "10.21%",
+    "uptime": "93.67%",
+    "uptimeDay": "8.19%",
     "uptimeWeek": "5.76%",
-    "uptimeMonth": "7.62%",
-    "uptimeYear": "79.22%",
+    "uptimeMonth": "7.41%",
+    "uptimeYear": "79.16%",
     "time": 193,
-    "timeDay": 201,
+    "timeDay": 198,
     "timeWeek": 154,
-    "timeMonth": 138,
+    "timeMonth": 137,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2026-05-23": 983,
@@ -677,7 +677,7 @@
       "2026-08-13": 1327,
       "2026-08-14": 1386,
       "2026-08-15": 1374,
-      "2026-08-16": 458
+      "2026-08-16": 812
     }
   }
 ]
