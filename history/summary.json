@@ -4,17 +4,17 @@
     "url": "https://classic.cincinnatilibrary.org/",
     "icon": "https://icons.duckduckgo.com/ip3/classic.cincinnatilibrary.org.ico",
     "slug": "chpl-classic-web-pac-public-access-catalog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 399,
-    "timeDay": 343,
-    "timeWeek": 311,
-    "timeMonth": 337,
-    "timeYear": 386,
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.56%",
+    "time": 398,
+    "timeDay": 309,
+    "timeWeek": 306,
+    "timeMonth": 335,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2025-08-24": 45,
       "2025-12-02": 71,
@@ -28,7 +28,7 @@
       "2026-05-08": 115,
       "2026-07-05": 74,
       "2026-07-04": 88,
-      "2026-08-16": 1
+      "2026-08-16": 30
     }
   },
   {
@@ -36,16 +36,16 @@
     "url": "https://classic.cincinnatilibrary.org/iii/sierra-api/about",
     "icon": "https://icons.duckduckgo.com/ip3/classic.cincinnatilibrary.org.ico",
     "slug": "chpl-sierra-rest-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.69%",
     "time": 107,
-    "timeDay": 123,
-    "timeWeek": 234,
-    "timeMonth": 249,
+    "timeDay": 129,
+    "timeWeek": 221,
+    "timeMonth": 246,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-08-24": 45,
@@ -59,7 +59,7 @@
       "2026-05-08": 110,
       "2026-07-05": 74,
       "2026-07-04": 83,
-      "2026-08-16": 1
+      "2026-08-16": 30
     }
   },
   {
@@ -113,7 +113,7 @@
     "uptimeDay": "1.11%",
     "uptimeWeek": "5.39%",
     "uptimeMonth": "7.03%",
-    "uptimeYear": "80.27%",
+    "uptimeYear": "80.26%",
     "time": 199,
     "timeDay": 136,
     "timeWeek": 117,
@@ -201,7 +201,7 @@
       "2026-08-13": 1275,
       "2026-08-15": 1424,
       "2026-08-14": 1440,
-      "2026-08-16": 435
+      "2026-08-16": 465
     }
   },
   {
@@ -584,7 +584,7 @@
     "uptime": "93.69%",
     "uptimeDay": "10.21%",
     "uptimeWeek": "5.76%",
-    "uptimeMonth": "7.78%",
+    "uptimeMonth": "7.71%",
     "uptimeYear": "79.24%",
     "time": 193,
     "timeDay": 201,
@@ -677,7 +677,7 @@
       "2026-08-13": 1327,
       "2026-08-14": 1386,
       "2026-08-15": 1374,
-      "2026-08-16": 355
+      "2026-08-16": 385
     }
   }
 ]
