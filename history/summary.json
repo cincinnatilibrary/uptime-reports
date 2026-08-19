@@ -67,17 +67,17 @@
     "url": "https://catalog.cincinnatilibrary.org",
     "icon": "https://icons.duckduckgo.com/ip3/catalog.cincinnatilibrary.org.ico",
     "slug": "chpl-encore-discovery-layer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.52%",
     "time": 1566,
-    "timeDay": 1342,
-    "timeWeek": 1449,
-    "timeMonth": 2112,
-    "timeYear": 1585,
+    "timeDay": 752,
+    "timeWeek": 1288,
+    "timeMonth": 2073,
+    "timeYear": 1582,
     "dailyMinutesDown": {
       "2025-08-25": 19,
       "2025-08-28": 16,
@@ -100,7 +100,8 @@
       "2026-08-02": 211,
       "2026-08-04": 475,
       "2026-08-08": 84,
-      "2026-08-07": 11
+      "2026-08-07": 11,
+      "2026-08-19": 1
     }
   },
   {
@@ -109,11 +110,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "95.40%",
+    "uptime": "95.39%",
     "uptimeDay": "10.32%",
     "uptimeWeek": "5.62%",
     "uptimeMonth": "6.52%",
-    "uptimeYear": "80.49%",
+    "uptimeYear": "80.47%",
     "time": 194,
     "timeDay": 167,
     "timeWeek": 124,
@@ -200,7 +201,7 @@
       "2026-08-16": 1365,
       "2026-08-17": 1408,
       "2026-08-18": 1362,
-      "2026-08-19": 135
+      "2026-08-19": 218
     }
   },
   {
@@ -294,7 +295,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "28.40%",
+    "uptimeYear": "28.41%",
     "time": 458,
     "timeDay": 44,
     "timeWeek": 156,
@@ -581,7 +582,7 @@
     "uptimeDay": "8.47%",
     "uptimeWeek": "6.16%",
     "uptimeMonth": "6.14%",
-    "uptimeYear": "79.39%",
+    "uptimeYear": "79.37%",
     "time": 188,
     "timeDay": 139,
     "timeWeek": 153,
@@ -673,7 +674,7 @@
       "2026-08-16": 1309,
       "2026-08-17": 1387,
       "2026-08-18": 1371,
-      "2026-08-19": 153
+      "2026-08-19": 236
     }
   }
 ]
