@@ -69,10 +69,10 @@
     "slug": "chpl-encore-discovery-layer",
     "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "99.51%",
     "time": 1566,
     "timeDay": 752,
     "timeWeek": 1288,
@@ -101,7 +101,7 @@
       "2026-08-04": 475,
       "2026-08-08": 84,
       "2026-08-07": 11,
-      "2026-08-19": 1
+      "2026-08-19": 31
     }
   },
   {
@@ -112,12 +112,12 @@
     "status": "down",
     "uptime": "95.39%",
     "uptimeDay": "10.32%",
-    "uptimeWeek": "5.62%",
+    "uptimeWeek": "5.54%",
     "uptimeMonth": "6.52%",
-    "uptimeYear": "80.47%",
+    "uptimeYear": "80.46%",
     "time": 194,
     "timeDay": 167,
-    "timeWeek": 124,
+    "timeWeek": 123,
     "timeMonth": 127,
     "timeYear": 158,
     "dailyMinutesDown": {
@@ -201,7 +201,7 @@
       "2026-08-16": 1365,
       "2026-08-17": 1408,
       "2026-08-18": 1362,
-      "2026-08-19": 218
+      "2026-08-19": 248
     }
   },
   {
@@ -231,17 +231,17 @@
     "url": "https://cincinnatilibrary.bibliocommons.com",
     "icon": "https://icons.duckduckgo.com/ip3/cincinnatilibrary.bibliocommons.com.ico",
     "slug": "chpl-discovery-layer-biblio-core",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "99.59%",
-    "time": 1208,
-    "timeDay": 798,
-    "timeWeek": 1144,
-    "timeMonth": 2541,
-    "timeYear": 1287,
+    "time": 1206,
+    "timeDay": 453,
+    "timeWeek": 1015,
+    "timeMonth": 2486,
+    "timeYear": 1284,
     "dailyMinutesDown": {
       "2025-08-25": 19,
       "2025-08-28": 16,
@@ -262,7 +262,8 @@
       "2026-07-26": 66,
       "2026-08-04": 315,
       "2026-08-08": 84,
-      "2026-08-07": 10
+      "2026-08-07": 10,
+      "2026-08-19": 1
     }
   },
   {
@@ -295,7 +296,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "28.41%",
+    "uptimeYear": "28.42%",
     "time": 458,
     "timeDay": 44,
     "timeWeek": 156,
@@ -674,7 +675,7 @@
       "2026-08-16": 1309,
       "2026-08-17": 1387,
       "2026-08-18": 1371,
-      "2026-08-19": 236
+      "2026-08-19": 267
     }
   }
 ]
