@@ -110,15 +110,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "95.87%",
+    "uptime": "95.86%",
     "uptimeDay": "1.05%",
     "uptimeWeek": "3.59%",
-    "uptimeMonth": "4.33%",
-    "uptimeYear": "82.46%",
+    "uptimeMonth": "4.21%",
+    "uptimeYear": "82.40%",
     "time": 196,
     "timeDay": 1393,
     "timeWeek": 242,
-    "timeMonth": 161,
+    "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2026-06-12": 1099,
@@ -192,7 +192,7 @@
       "2026-08-18": 1362,
       "2026-08-19": 1305,
       "2026-08-20": 1412,
-      "2026-08-22": 955,
+      "2026-08-22": 1254,
       "2026-08-21": 1440
     }
   },
@@ -283,17 +283,17 @@
     "url": "https://collection-analysis.cincy.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
-    "status": "up",
-    "uptime": "75.63%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
+    "status": "down",
+    "uptime": "75.65%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.09%",
-    "uptimeYear": "29.36%",
-    "time": 458,
-    "timeDay": 196,
-    "timeWeek": 173,
-    "timeMonth": 1040,
-    "timeYear": 339,
+    "uptimeYear": "29.41%",
+    "time": 457,
+    "timeDay": 181,
+    "timeWeek": 167,
+    "timeMonth": 1017,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2026-05-06": 345,
       "2026-05-05": 1440,
@@ -560,7 +560,7 @@
       "2026-07-30": 116,
       "2026-08-03": 169,
       "2026-08-07": 39,
-      "2026-08-22": 27
+      "2026-08-22": 28
     }
   },
   {
@@ -569,14 +569,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "93.62%",
+    "uptime": "93.60%",
     "uptimeDay": "1.24%",
-    "uptimeWeek": "4.45%",
-    "uptimeMonth": "4.09%",
-    "uptimeYear": "78.88%",
+    "uptimeWeek": "4.33%",
+    "uptimeMonth": "3.93%",
+    "uptimeYear": "78.82%",
     "time": 186,
     "timeDay": 189,
-    "timeWeek": 139,
+    "timeWeek": 128,
     "timeMonth": 131,
     "timeYear": 174,
     "dailyMinutesDown": {
@@ -666,7 +666,7 @@
       "2026-08-19": 1387,
       "2026-08-20": 1376,
       "2026-08-21": 1380,
-      "2026-08-22": 971
+      "2026-08-22": 1269
     }
   }
 ]
