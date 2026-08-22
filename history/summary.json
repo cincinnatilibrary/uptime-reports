@@ -192,7 +192,7 @@
       "2026-08-18": 1362,
       "2026-08-19": 1305,
       "2026-08-20": 1412,
-      "2026-08-22": 1254,
+      "2026-08-22": 1278,
       "2026-08-21": 1440
     }
   },
@@ -283,16 +283,16 @@
     "url": "https://collection-analysis.cincy.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
-    "status": "down",
+    "status": "up",
     "uptime": "75.65%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "29.41%",
-    "time": 457,
-    "timeDay": 181,
-    "timeWeek": 167,
-    "timeMonth": 1017,
+    "time": 456,
+    "timeDay": 188,
+    "timeWeek": 172,
+    "timeMonth": 998,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2026-05-06": 345,
@@ -560,7 +560,7 @@
       "2026-07-30": 116,
       "2026-08-03": 169,
       "2026-08-07": 39,
-      "2026-08-22": 28
+      "2026-08-22": 51
     }
   },
   {
@@ -571,12 +571,12 @@
     "status": "down",
     "uptime": "93.60%",
     "uptimeDay": "1.24%",
-    "uptimeWeek": "4.33%",
+    "uptimeWeek": "4.27%",
     "uptimeMonth": "3.93%",
     "uptimeYear": "78.82%",
     "time": 186,
     "timeDay": 189,
-    "timeWeek": 128,
+    "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 174,
     "dailyMinutesDown": {
@@ -666,7 +666,7 @@
       "2026-08-19": 1387,
       "2026-08-20": 1376,
       "2026-08-21": 1380,
-      "2026-08-22": 1269
+      "2026-08-22": 1293
     }
   }
 ]
