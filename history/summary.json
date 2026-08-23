@@ -110,11 +110,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.research.cincinnatilibrary.org.ico",
     "slug": "chpl-remote-databases-ez-proxy",
     "status": "down",
-    "uptime": "95.85%",
+    "uptime": "95.84%",
     "uptimeDay": "1.05%",
     "uptimeWeek": "3.59%",
     "uptimeMonth": "4.21%",
-    "uptimeYear": "82.35%",
+    "uptimeYear": "82.34%",
     "time": 196,
     "timeDay": 1384,
     "timeWeek": 241,
@@ -194,7 +194,7 @@
       "2026-08-20": 1412,
       "2026-08-22": 1425,
       "2026-08-21": 1440,
-      "2026-08-23": 81
+      "2026-08-23": 169
     }
   },
   {
@@ -284,17 +284,17 @@
     "url": "https://collection-analysis.cincy.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/collection-analysis.cincy.pl.ico",
     "slug": "collection-analysis-datasette",
-    "status": "up",
-    "uptime": "75.65%",
-    "uptimeDay": "96.45%",
+    "status": "down",
+    "uptime": "75.68%",
+    "uptimeDay": "96.41%",
     "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "29.46%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "29.47%",
     "time": 456,
-    "timeDay": 175,
-    "timeWeek": 158,
-    "timeMonth": 996,
-    "timeYear": 337,
+    "timeDay": 165,
+    "timeWeek": 154,
+    "timeMonth": 975,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2026-05-06": 345,
       "2026-05-05": 1440,
@@ -560,7 +560,8 @@
       "2026-07-30": 116,
       "2026-08-03": 169,
       "2026-08-07": 39,
-      "2026-08-22": 51
+      "2026-08-22": 51,
+      "2026-08-23": 1
     }
   },
   {
@@ -569,11 +570,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsdex.chpl.org.ico",
     "slug": "newsdex",
     "status": "down",
-    "uptime": "93.59%",
+    "uptime": "93.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.47%",
     "uptimeMonth": "3.93%",
-    "uptimeYear": "78.78%",
+    "uptimeYear": "78.76%",
     "time": 186,
     "timeDay": 34,
     "timeWeek": 124,
@@ -666,7 +667,7 @@
       "2026-08-19": 1387,
       "2026-08-20": 1376,
       "2026-08-21": 1380,
-      "2026-08-23": 82,
+      "2026-08-23": 170,
       "2026-08-22": 1440
     }
   }
